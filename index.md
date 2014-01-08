@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Changes
-tagline: Supporting tagline
+title: Pedalling rubbish
+tagline: 4 guys, 1000 miles, 12 days... no idea
 ---
 {% include JB/setup %}
 
