@@ -9,7 +9,7 @@ tagline: Supporting tagline
 
 Welcome - we're gearing up to the challenge of cycling the 1000 miles from Land's End to John O'Groats.
 
-We'd love you to [[sponsor] [http://lejo.gs/sponsor]] us!
+We'd love you to [sponsor](http://lejo.gs/sponsor) us!
 
 <ul class="posts">
   {% for post in site.posts %}
