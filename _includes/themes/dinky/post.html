@@ -3,8 +3,10 @@
 
   {{ content }}
   
-  {% for tag in post.tags %}
-  {{ tag }}
+ 
+  {% for tag in page.tags %}
+  <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">
+  <u>{{ tag }}</u></a>
   {% endfor %}
 
   {% include JB/comments %}
