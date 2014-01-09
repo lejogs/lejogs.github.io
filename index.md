@@ -19,7 +19,7 @@ We'd love you to [sponsor](http://lejo.gs/sponsor) us! In the meantime - this is
                         </hgroup>
                     </dt>
                               <dd>
-                    {{ post.exerpt}} <a href="{{post.url}}" class="more-link">Read more.</a>
+                    {{ post.excerpt}} <a href="{{post.url}}" class="more-link">Read more.</a>
                               </dd>
 {% endfor %}
 </ul>
