@@ -15,7 +15,7 @@ We'd love you to [sponsor](http://lejo.gs/sponsor) us! In the meantime - this is
                     <dt>
                         <h3>
                             <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-                            <h5><time class="post-date" datetime="{{ post.date | date_to_string }}" pubdate="pubdate">{{ post.date | date: '%B %d, %Y' }}</time></h5>
+                            <time class="post-date" datetime="{{ post.date | date_to_string }}" pubdate="pubdate">{{ post.date | date: '%B %d, %Y' }}</time>
                         </h3>
                     </dt>
                               <dd>
