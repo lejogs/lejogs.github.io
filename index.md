@@ -12,7 +12,15 @@ Welcome - we're gearing up to the challenge of cycling the 1000 miles from Land'
 We'd love you to [sponsor](http://lejo.gs/sponsor) us!
 
 <ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+                              {% for post in site.posts limit:5 %}
+                    <dt>
+                        <hgroup>
+                            <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+                            <time class="date" datetime="{{ post.date | date_to_string }}" pubdate="pubdate">{{ post.date | date: '%B %d, %Y' }}</time>
+                        </hgroup>
+                    </dt>
+                              <dd>
+                    {{ post.content | truncatewords: 55}} <a href="{{post.url}}" class="more-link">Read more.</a>
+                              </dd>
+                {% endfor %}
 </ul>
