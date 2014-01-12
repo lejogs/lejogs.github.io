@@ -8,7 +8,7 @@ url:              http://lejo.gs
 
 # Owner/author information
 owner:
-  name:           Rich, Chris, Jacko and Henry
+  name:           R, C, J & H
   avatar:         bio-photo.jpg
   email:          all@lejo.gs
   # Social networking links used in footer. Update and remove as you like.
@@ -38,7 +38,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/London
 future:      true
 pygments:    true
 markdown:    kramdown
