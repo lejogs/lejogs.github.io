@@ -1,3 +1,0 @@
-# We
-## going
-### cyclin'
