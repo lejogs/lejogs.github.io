@@ -38,7 +38,7 @@ links:
     url: /blog/
   - title : Route
     url : /route/
-    - title : Sponsor
+  - title : Sponsor
     url : /sponsor/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
