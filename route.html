@@ -74,8 +74,8 @@ description: "How we're going to get there'"
     <script src="/assets/js/topojson.js"></script>
     <script>
     
-        width = d3.select(".entry-content").width
-        height  = d3.select(".entry-content").height
+        width = d3.select(".entry-content").style("width")
+        height  = d3.select(".entry-content").style("height")
         
         var svg = d3.select(".entry-content").append("svg")
         .attr("width", width)
