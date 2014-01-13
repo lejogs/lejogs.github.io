@@ -99,7 +99,7 @@ description: "How we're going to get there'"
         .rotate([4.4, 0])
         .parallels([50, 60])
         .scale(Math.min(width,height)*6)
-        .translate([width / 2, height / 2]);
+        .translate([width / 1.5, height / 2]);
         
         var path = d3.geo.path()
         .projection(projection)
@@ -129,8 +129,7 @@ description: "How we're going to get there'"
                 });
         
         function drawRoute(){
-                pathF = Math.min(width,height)/6.3
-                pathF = 0
+
             
             d3.json("/assets/json/route2.json",function(error, rt){
                     collection = topojson.feature(rt,rt.objects.collection);
@@ -143,8 +142,6 @@ description: "How we're going to get there'"
                     .enter()
                     .append("path")
                     .attr("d", route)
-                    .attr("stroke-dasharray",function(d){return pathF + " " + pathF})
-                    .attr("stroke-dashoffset",function(d){return pathF})
                     .attr("stroke","orange")
                     .attr("fill","none")
                     .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
@@ -165,7 +162,6 @@ description: "How we're going to get there'"
                     .delay(function(d,i){return i*750})
                     .ease("linear")
                     .attr("fill",function(d){return d.geometry.type=="Point"?"steelblue":"none"})
-                    .attr("stroke-dashoffset",0)
                     .attr("stroke","steelblue")
                     
                     
