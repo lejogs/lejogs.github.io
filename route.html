@@ -153,8 +153,8 @@ description: "How we're going to get there'"
                     .attr("day",day)
                     .attr("stay",stay)
                     
-                    svg.selectAll(".place-label")
-                 .data(collections.features)
+                    labels = svg.selectAll(".place-label")
+                 .data(collection.features)
                 .enter().append("text")
                 .attr("class", "place-label")
                 .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
