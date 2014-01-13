@@ -75,8 +75,8 @@ description: "How we're going to get there'"
     <script>
         
         var svg = d3.select(".entry-content").append("svg")
-        .attr("width", function(d){return d.width})
-        .attr("height", function(d){return d.height})
+        .attr("width", d3.select(".entry-content").width)
+        .attr("height", d3.select(".entry-content").height)
         .append("g");
         
         
