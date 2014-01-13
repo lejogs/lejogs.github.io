@@ -15,11 +15,14 @@ I discussed this with **Chris** over a beer and a burger (obviously). Luckily he
 
 > “as long as [I can] buy a bike and a GoPro”.
 
-**Rich** took about half a second to convince. 
+**Rich** took about half a second to convince.
+
 > He’s a complete idiot. 
+
 Last year he cycled from London to Paris on a Brompton. Our team was now three.
 
 And **Henry**? Well Henry lives in New York so there’s 
+
 > a strong chance he doesn’t even know he’s been signed up for this…
 
 So over 12 days in late August 2014 we will be cycling the (almost) 1000 miles between the southernmost and northernmost points of mainland Britain.
