@@ -132,6 +132,7 @@ description: "How we're going to get there'"
         
         function drawRoute(){
                 pathF = Math.min(width,height)/6.3
+                pathF = 0
             
             d3.json("/assets/json/route2.json",function(error, rt){
                     collection = topojson.feature(rt,rt.objects.collection);
@@ -142,6 +143,9 @@ description: "How we're going to get there'"
                     mapline = svg.selectAll(".route")
                     .data(collection.features)
                     .enter()
+                    .append("g")
+                    
+                    mappline
                     .append("path")
                     .attr("d", route)
                     .attr("stroke-dasharray",function(d){console.log(d); return pathF + " " + pathF})
@@ -151,7 +155,9 @@ description: "How we're going to get there'"
                     .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
                     .attr("day",day)
                     .attr("stay",stay)
-                    .append("svg:title")
+                    
+                    mapline
+                    .append("text")
                         .attr("x", function(d) { return d.x; })
                         .attr("y", function(d) { return d.y; })
                         .text("fooLabelsOfScatterPoints");
