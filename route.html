@@ -151,6 +151,10 @@ description: "How we're going to get there'"
                     .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
                     .attr("day",day)
                     .attr("stay",stay)
+                    .append("text")
+  .attr("x", function(d) { return x(d.x); })
+  .attr("y", function(d) { return y(d.y); })
+  .text("fooLabelsOfScatterPoints");
                     
                     mapline
                     .transition()
