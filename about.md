@@ -39,7 +39,7 @@ We can’t imagine what feels like to get the news that you've been diagnosed wi
 
 The great news is that my mate’s habit of being good at everything has been pretty handy when it comes to beating cancer and he is doing well. However, sadly both Rich's uncle and Chris' grandad weren't so lucky.
 
-One thing we can do to help is to try and raise a shed load of cash to support research into finding a cure ... that's where you also come in!
+One thing we can do to help is to try and raise a shed load of cash to support [Leukaemia and Lymphoma Research](http://www.leukaemialymphomaresearch.org.uk/) in finding a cure ... that's where you also come in!
 
 ##Give us your money (please!)
 
