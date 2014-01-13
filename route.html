@@ -73,10 +73,13 @@ description: "How we're going to get there'"
     <script src="/assets/js/d3.js"></script>
     <script src="/assets/js/topojson.js"></script>
     <script>
+    
+        width = d3.select(".entry-content").width
+        height  = d3.select(".entry-content").height
         
         var svg = d3.select(".entry-content").append("svg")
-        .attr("width", d3.select(".entry-content").width)
-        .attr("height", d3.select(".entry-content").height)
+        .attr("width", width)
+        .attr("height", height)
         .append("g");
         
         
@@ -85,7 +88,7 @@ description: "How we're going to get there'"
         .rotate([4.4, 0])
         .parallels([50, 60])
         .scale(Math.min(width,height)*4)
-        .translate([width / 1.5, height / 1.5]);
+        .translate([width / 2, height / 2]);
         
         var path = d3.geo.path()
         .projection(projection)
