@@ -142,6 +142,9 @@ description: "How we're going to get there'"
                     mapline = svg.selectAll(".route")
                     .data(collection.features)
                     .enter()
+                    .append("g")
+                    
+                    mapline
                     .append("path")
                     .attr("d", route)
                     .attr("stroke-dasharray",function(d){console.log(d); return pathF + " " + pathF})
