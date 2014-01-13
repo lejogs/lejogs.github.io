@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta charset="utf-8">
+        <style>
+            svg {
+                position:absolute;
+                top:0;
+                left:0;
+            }
+            
+            
+            .subunit {
+                fill: #fff;
+                stroke: #777;
+            }
+            
+            .subunit-boundary {
+                fill: none;
+                stroke: #fff;
+                stroke-dasharray: 2,2;
+                stroke-linejoin: round;
+            }
+            
+            .main{
+                margin:36px;
+                position:absolute;
+                top:0;
+                left:0;
+                width: 500px;
+                font: 72px Helvetica;
+                float:right;
+            }
+            
+            .sub{
+                margin-top:36px;
+                width: 500px;
+                font: 36px Helvetica;
+                float:right;
+            }
+            
+            b{
+                color:steelblue
+            }
+            
+            .sponsor{
+                margin-top:24px;
+                width: 500px;
+                font: 24px Helvetica;
+                float:right;
+            }
+            
+            .widget{
+                position:absolute;
+                bottom:0;
+                right:0;
+                float:right;
+            }
+            
+            .stay1{
+                fill: green;
+                stroke:green;
+                stroke-width:10;
+            }
+            
+            .stay12{
+                fill: red;
+                stroke:red;
+                stroke-width:10;
+            }
+            
+            </style>
+</head><body>
+    <script src="assets/js/d3.js"></script>
+    <script src="assets/js/topojson.js"></script>
+    <script>
+        var w = window,
+        d = document,
+        e = d.documentElement,
+        g = d.getElementsByTagName('body')[0],
+        width = w.innerWidth || e.clientWidth || g.clientWidth,
+        height = w.innerHeight|| e.clientHeight|| g.clientHeight;
+        
+        var svg = d3.select("body").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .append("g");
+        
+        function updateWindow(){
+            width = w.innerWidth || e.clientWidth || g.clientWidth;
+            height = w.innerHeight|| e.clientHeight|| g.clientHeight;
+            
+            svg.attr("width", width).attr("height", height);
+            drawRoute();
+        }
+        window.onresize = updateWindow;
+        
+        var projection = d3.geo.albers()
+        .center([0, 54.4])
+        .rotate([4.4, 0])
+        .parallels([50, 60])
+        .scale(Math.min(width,height)*6)
+        .translate([width / 2, height / 2]);
+        
+        var path = d3.geo.path()
+        .projection(projection)
+        .pointRadius(0);
+        
+        var route = d3.geo.path()
+        .projection(projection)
+        .pointRadius(5);
+        
+        
+        d3.json("/assets/json/uk2.json", function(error, uk) {
+                var subunits = topojson.feature(uk, uk.objects.collection);
+                
+                svg.selectAll(".subunit")
+                .data(subunits.features)
+                .enter()
+                .append("path")
+                .attr("class", function(d) { return "subunit " + d.id; })
+                .attr("d", path);
+                
+                svg.append("path")
+                .datum(topojson.mesh(uk, uk.objects.collection, function(a, b) { return a !== b}))
+                .attr("d", path)
+                .attr("class", "subunit-boundary")
+                .call(drawRoute)
+                
+                });
+        
+        function drawRoute(){
+                pathF = Math.min(width,height)/6.3
+            
+            d3.json("/assets/json/route2.json",function(error, rt){
+                    collection = topojson.feature(rt,rt.objects.collection);
+                    
+                    
+                    day = 0;
+                    stay = 0;
+                    mapline = svg.selectAll(".route")
+                    .data(collection.features)
+                    .enter()
+                    .append("path")
+                    .attr("d", route)
+                    .attr("stroke-dasharray",function(d){console.log(d); return pathF + " " + pathF})
+                    .attr("stroke-dashoffset",function(d){return pathF})
+                    .attr("stroke","orange")
+                    .attr("fill","none")
+                    .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
+                    .attr("day",day)
+                    .attr("stay",stay)
+                    
+                    mapline
+                    .transition()
+                    .duration(1000)
+                    .delay(function(d,i){return i*750})
+                    .ease("linear")
+                    .attr("fill",function(d){return d.geometry.type=="Point"?"steelblue":"none"})
+                    .attr("stroke-dashoffset",0)
+                    .attr("stroke","steelblue")
+                    
+                    });
+            
+        }
+        
+        </script>
+
+    <div class = "widget">
+            </div>
+            </body></html>
