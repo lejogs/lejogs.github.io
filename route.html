@@ -152,8 +152,8 @@ description: "How we're going to get there'"
                     .attr("day",day)
                     .attr("stay",stay)
                     .append("text")
-  .attr("x", function(d) { return x(d.x); })
-  .attr("y", function(d) { return y(d.y); })
+  .attr("x", function(d) { return d.x; })
+  .attr("y", function(d) { return d.y; })
   .text("fooLabelsOfScatterPoints");
                     
                     mapline
