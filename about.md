@@ -45,8 +45,12 @@ One thing we can do to help is to try and raise a shed load of cash to support [
 
 You may think this is a jolly holiday, you may think that money's a bit tight at the moment, or you may just think we're idiots. However, while all these are true, we know you will also think that sponsoring us is totally worthwhile.
 
-So what are you waiting for?!
+So what are you waiting for?
+
+Click the button to <a href = 'http://virginmoneygiving.com/lejogs' class = 'btn'>sponsor</a> us!
 
 Thank you.
 
 **Jacko** and the team
+
+
