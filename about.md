@@ -11,11 +11,16 @@ How hard can it be? … was the first thought that ran through my mind.
 
 This Top Gear attitude towards stuff means that, like an idiot, I decided that cycling from Land’s End to John O’Groats would be a good idea.
 
-I discussed this with **Chris** over a beer and a burger (obviously). Luckily he’s even more of an idiot than me and agreed that it was a brilliant idea “as long as [I can] buy a bike and a GoPro”.
+I discussed this with **Chris** over a beer and a burger (obviously). Luckily he’s even more of an idiot than me and agreed that it was a brilliant idea
 
-**Rich** took about half a second to convince. He’s a complete idiot. Last year he cycled from London to Paris on a Brompton. Our team was now three.
+> “as long as [I can] buy a bike and a GoPro”.
 
-And **Henry**? Well Henry lives in New York so there’s a strong chance he doesn’t even know he’s been signed up for this…
+**Rich** took about half a second to convince. 
+> He’s a complete idiot. 
+Last year he cycled from London to Paris on a Brompton. Our team was now three.
+
+And **Henry**? Well Henry lives in New York so there’s 
+> a strong chance he doesn’t even know he’s been signed up for this…
 
 So over 12 days in late August 2014 we will be cycling the (almost) 1000 miles between the southernmost and northernmost points of mainland Britain.
 
