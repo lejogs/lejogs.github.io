@@ -2,7 +2,180 @@
 layout: page
 title: Route
 permalink : /route/index.html
-description: "How we're going to get there'"
+description: "How we're going to get there"
 ---
 
-<script src="https://embed.github.com/view/geojson/lejogs/lejogs.github.io/master/assets/json/route2.json"></script>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <style>
+            svg {
+                position:absolute;
+                top:0;
+                left:0;
+            }
+            
+            
+            .subunit {
+                fill: #fff;
+                stroke: #777;
+            }
+            
+            .subunit-boundary {
+                fill: none;
+                stroke: #fff;
+                stroke-dasharray: 2,2;
+                stroke-linejoin: round;
+            }
+            
+            .main{
+                margin:36px;
+                position:absolute;
+                top:0;
+                left:0;
+                width: 500px;
+                font: 72px Helvetica;
+                float:right;
+            }
+            
+            .sub{
+                margin-top:36px;
+                width: 500px;
+                font: 36px Helvetica;
+                float:right;
+            }
+            
+            b{
+                color:steelblue
+            }
+            
+            .sponsor{
+                margin-top:24px;
+                width: 500px;
+                font: 24px Helvetica;
+                float:right;
+            }
+            
+            .place-label{
+                color:steelblue;
+                font: 12px Helvetica;
+                }
+            
+            .stay1{
+                fill: green;
+                stroke:green;
+                stroke-width:10;
+            }
+            
+            .stay12{
+                fill: red;
+                stroke:red;
+                stroke-width:10;
+            }
+          </style>
+    <script src="/assets/js/d3.js"></script>
+    <script src="/assets/js/topojson.js"></script>
+    <script>
+    
+        width = parseInt(d3.select(".entry-content").style("width"))
+        height = parseInt(d3.select(".entry-content").style("height"))
+        
+        var svg = d3.select(".entry-content").append("svg")
+        .attr("width", width)
+        .attr("height", height)
+        .append("g");
+        
+        
+        var projection = d3.geo.albers()
+        .center([0, 54.4])
+        .rotate([4.4, 0])
+        .parallels([50, 60])
+        .scale(Math.min(width,height)*4)
+        .translate([width / 2, height / 2]);
+        
+        var path = d3.geo.path()
+        .projection(projection)
+        .pointRadius(0);
+        
+        var route = d3.geo.path()
+        .projection(projection)
+        .pointRadius(5);
+        
+        
+        d3.json("/assets/json/uk2.json", function(error, uk) {
+                var subunits = topojson.feature(uk, uk.objects.collection);
+                
+                svg.selectAll(".subunit")
+                .data(subunits.features)
+                .enter()
+                .append("path")
+                .attr("class", function(d) { return "subunit " + d.id; })
+                .attr("d", path);
+                
+                svg.append("path")
+                .datum(topojson.mesh(uk, uk.objects.collection, function(a, b) { return a !== b}))
+                .attr("d", path)
+                .attr("class", "subunit-boundary")
+                .call(drawRoute)
+                
+                });
+        
+        function drawRoute(){
+
+            
+            d3.json("/assets/json/route2.json",function(error, rt){
+                    collection = topojson.feature(rt,rt.objects.collection);
+                    
+                    
+                    day = 0;
+                    stay = 0;
+                    mapline = svg.selectAll(".route")
+                    .data(collection.features)
+                    .enter()
+                    .append("path")
+                    .attr("d", route)
+                    .attr("stroke","orange")
+                    .attr("fill","none")
+                    .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
+                    .attr("day",day)
+                    .attr("stay",stay)
+                    
+                    labels = svg.selectAll(".place-label")
+                 .data(collection.features)
+                .enter().append("text")
+                .attr("class", "place-label")
+                .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+                .attr("dy", ".35em")
+                .text(function(d) { return d.properties.name; });
+                    
+                    mapline
+                    .transition()
+                    .duration(1000)
+                    .delay(function(d,i){return i*750})
+                    .ease("linear")
+                    .attr("fill",function(d){return d.geometry.type=="Point"?"steelblue":"none"})
+                    .attr("stroke","steelblue")
+                    
+                    
+                    
+                    });
+            
+        }
+        
+        </script>
