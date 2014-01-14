@@ -4,24 +4,7 @@ title: Route
 permalink : /route/index.html
 description: "How we're going to get there"
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+&nbsp;
         <style>
         
         svg {
@@ -90,16 +73,12 @@ description: "How we're going to get there"
     <script>
     
         width = parseInt(d3.select(".entry-content").style("width"))
-        height = parseInt(d3.select(".entry-content").style("height"))
-        top = parseInt(d3.select(".entry-content").style("top"))
-        left = parseInt(d3.select(".entry-content").style("left"))
+        height = width
+
         
         var svg = d3.select(".entry-content").append("svg")
         .attr("width", width)
         .attr("height", height)
-        .attr("top", height)
-        .attr("left", height)
-        .append("g");
         
         
         var projection = d3.geo.albers()
