@@ -143,8 +143,8 @@ description: "How we're going to get there"
                 .enter().append("text")
                 .attr("class", "place-label")
                 .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
-                .attr("dy", "6 em")
-                .text(function(d) { return d.geometry.type=="Point"?  "   " + d.properties.name : "" ; });
+                .attr("dy", "6em")
+                .text(function(d) { return d.properties.name });
                     
                     mapline
                     .transition()
