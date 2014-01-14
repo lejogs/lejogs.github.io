@@ -156,7 +156,7 @@ description: "How we're going to get there"
                 .attr("class", "place-label")
                 .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
                 .attr("dy", ".35em")
-                .text(function(d) { return d.properties.name; });
+                .text(function(d) { return d.geometry.type=="Point"?  "   " + d.properties.name : "" ; });
                     
                     mapline
                     .transition()
