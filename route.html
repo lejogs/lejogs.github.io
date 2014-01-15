@@ -115,6 +115,7 @@ description: "How we're going to get there"
                 });
         
         function drawRoute(){
+                
 
             
             d3.json("/assets/json/route3.json",function(error, rt){
@@ -128,6 +129,8 @@ description: "How we're going to get there"
                     .enter()
                     .append("path")
                     .attr("d", route)
+                    .attr("stroke-dasharray", function(d){ return d.node().getTotalLength() + " " + d.node.getTotalLength()})
+                .attr("stroke-dashoffset", function(d){ return d.node().getTotalLength()} )
                     .attr("stroke","orange")
                     .attr("fill","none")
                     .attr("class", function(d){return d.geometry.type=="Point"?"stay stay"+ ++stay:"day day"+ ++day})
@@ -149,6 +152,7 @@ description: "How we're going to get there"
                     .ease("linear")
                     .attr("fill",function(d){return d.geometry.type=="Point"?"steelblue":"none"})
                     .attr("stroke","steelblue")
+                    .attr("stroke-dashoffset", 0);
                     
                     
                     
