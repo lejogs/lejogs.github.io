@@ -129,7 +129,7 @@ description: "How we're going to get there"
                     .enter()
                     .append("path")
                     .attr("d", route)
-                    .attr("stroke-dasharray", function(d){ console.log(d); return 100})
+                    .attr("stroke-dasharray", function(d){ console.log(route.node()); return 100})
                 .attr("stroke-dashoffset", function(d){ return 100} )
                     .attr("stroke","orange")
                     .attr("fill","none")
