@@ -141,7 +141,7 @@ description: "How we're going to get there"
                  .data(collection.features.filter(function(element){return element.geometry.type=="Point"}))
                 .enter().append("text")
                 .attr("class", "place-label")
-                .style("opacity",100)
+                .style("opacity",0)
                 .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
                 .attr("dx", ".5em")
                 .text(function(d) { return d.properties.name });
@@ -160,7 +160,7 @@ description: "How we're going to get there"
                     .transition()
                     .duration(1000)
                     .delay(function(d,i){return i*750})
-                    .style("opacity",0)
+                    .style("opacity",100)
                     
                     
                     });
