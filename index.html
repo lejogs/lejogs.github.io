@@ -19,7 +19,7 @@ Here's what's keeping us busy...
 <ul class="image-list">
   {% for post in site.posts limit:10 %} 
   {% if post.image.thumb %}
-  <li><article><a href="{{ site.url }}{{ post.url }}"><img src ="{{post.image.thumb}}"/></a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}"><img src ="/images/{{post.image.thumb}}"/></a></article></li>
   {% endif %}
 {% endfor %}
 </ul>
