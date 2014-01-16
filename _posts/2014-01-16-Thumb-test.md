@@ -6,7 +6,7 @@ tags: rich post pics
 comments: true
 share: true
 image: 
-     feature: ap/feature/1439b6f6a39f56f3_0.jpg
+     feature: ap/features/1439b6f6a39f56f3_0.jpg
      thumb: ap/thumbs/1439b6f6a39f56f3_0.jpg
 ---
 
