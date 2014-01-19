@@ -21,7 +21,8 @@ A roll of parcel tape helped attach an iPhone to the front of Rich's bike and we
 <figure class="half">
 <a href = "/images/ap/standard/143ac535ee230128_0.jpg">
 <img src="/images/ap/standard/143ac535ee230128_0.jpg">
-</a><a href = "/images/ap/standard/143ac535ee230128_1.jpg">
+</a>
+<a href = "/images/ap/standard/143ac535ee230128_1.jpg">
 <img src="/images/ap/standard/143ac535ee230128_1.jpg">
 </a>
 </figure>
@@ -36,7 +37,7 @@ To be honest we looked pretty shambolic as we set off towards Crystal Palace and
 <a href = "/images/ap/standard/143ac535ee230128_3.jpg">
 <img src="/images/ap/standard/143ac535ee230128_3.jpg">
 </a>
-
+</figure>
 
 
 It was a great little route to get our training started. Enough hills to keep us working hard but not enough to put us off on the first ride. We headed past West Wickham, winding through the lovely villages of Keston and Downe, and into the woods south of Biggin Hill. I love how London just ends. One minute you're cycling up a busy main road or residential street and the next you feel as if you are miles from anywhere.
@@ -63,4 +64,5 @@ Also, check out our twitter [@lejogs](https://twitter.com/lejogs) and please con
 <figure class="">
 <a href = "/images/ap/standard/143ac535ee230128_4.jpg">
 <img src="/images/ap/standard/143ac535ee230128_4.jpg">
-</a></figure>
+</a>
+</figure>
