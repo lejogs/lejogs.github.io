@@ -10,6 +10,7 @@ image:
      thumb: ap/thumbs/143b0051dd10a020_0.jpg
 ---
 This should post and be tweeted
+
 <figure class="">
 <a href = "/images/ap/standard/143b0051dd10a020_0.jpg">
 <img src="/images/ap/standard/143b0051dd10a020_0.jpg">
