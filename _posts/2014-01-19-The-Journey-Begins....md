@@ -55,9 +55,9 @@ We'd love it if anyone wants to come cycling with us over the next few months so
 Also, check out our twitter [@lejogs](https://twitter.com/lejogs) and please consider [sponsoring us](http://lejo.gs/sponsor/) - it's for an amazing cause.
 
 ###Running totals
-<i class="icon-road"></i> **Miles:** 57
-<i class="icon-thumb-tack"></i> **Number of punctures:** 1
-<i class="icon-time"></i> **Number of times Chris has been late:** 1
+<i class="icon-road"></i>**Miles:** 57<br>
+<i class="icon-wrench"></i> **Number of punctures:** 1<br>
+<i class="icon-time"></i> **Number of times Chris has been late:** 1<br>
 
 ###The route
 
