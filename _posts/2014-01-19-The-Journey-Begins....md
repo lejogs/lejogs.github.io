@@ -56,8 +56,8 @@ Also, check out our twitter [@lejogs](https://twitter.com/lejogs) and please con
 
 ###Running totals
 <i class="icon-road"></i>**Miles:** 57<br>
-<i class="icon-wrench"></i> **Number of punctures:** 1<br>
-<i class="icon-time"></i> **Number of times Chris has been late:** 1<br>
+<i class="icon-wrench"></i>**Number of punctures:** 1<br>
+<i class="icon-time"></i>**Number of times Chris has been late:** 1<br>
 
 ###The route
 
