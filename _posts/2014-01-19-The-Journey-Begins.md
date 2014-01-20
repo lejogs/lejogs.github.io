@@ -1,7 +1,7 @@
 ---
 layout: post
 category: posts
-tagline: The Journey Begins...
+tagline: The Journey Begins
 tags: jacko post pics
 comments: true
 share: true
