@@ -10,7 +10,7 @@ layout: none
 <updated>{{ site.time | date_to_xmlschema }}</updated>
 <id>{{ site.url }}/</id>
 <author>
-  <name>{{ site.owner.name }}</name>
+  <name><![CDATA[{{ site.owner.name }}]]></name>
   <uri>{{ site.url }}/</uri>
   <email>{{ site.owner.email }}</email>
 </author>
