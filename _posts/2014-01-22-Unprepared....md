@@ -27,9 +27,9 @@ To be fair, I didn't moan (until now) and neither did the boys, who had to const
 
 A massive thanks to Rich and Jacko for a few things so far:
 
-1  Doing a sterling job on the tech front
-2  Being very patient on the first ride
-3  For proudly singing the praises of new Gatorskin tyres, to then have a puncture 10 minutes later
+1. Doing a sterling job on the tech front
+2.  Being very patient on the first ride
+3. For proudly singing the praises of new Gatorskin tyres, to then have a puncture 10 minutes later
 
 Here's to having some fun, and raising a lot of money for a very worthy cause.
 
