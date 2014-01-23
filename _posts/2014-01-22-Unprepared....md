@@ -1,7 +1,7 @@
 ---
 layout: post
 category: posts
-tagline: Unprepared...
+tagline: Unprepared
 tags: chris post
 comments: true
 share: true
