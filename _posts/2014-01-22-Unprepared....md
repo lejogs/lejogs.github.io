@@ -26,9 +26,10 @@ For me, the first ride was a blur of burning thighs and the shame of being left 
 To be fair, I didn't moan (until now) and neither did the boys, who had to constantly wait at the top of every hill until Captain Slow finally appeared. It's at times like these when you realise that you're going to be in good company for the months ahead.  It's also at times like these when you realise that this is just the beginning, and that we're here to put in some hard yards; both on the riding and the money raising front.  So, to the gym for the second time this week, hill setting enabled, pedals slowly turning...
 
 A massive thanks to Rich and Jacko for a few things so far:
-1.  Doing a sterling job on the tech front
-2.  Being very patient on the first ride
-3.  For proudly singing the praises of new Gatorskin tyres, to then have a puncture 10 minutes later
+
+1  Doing a sterling job on the tech front
+2  Being very patient on the first ride
+3  For proudly singing the praises of new Gatorskin tyres, to then have a puncture 10 minutes later
 
 Here's to having some fun, and raising a lot of money for a very worthy cause.
 
