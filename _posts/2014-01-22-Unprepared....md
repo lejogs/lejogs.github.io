@@ -8,7 +8,8 @@ share: true
 ---
 ####And so it began.
 
-I thought in the aftermath that I was just very unprepared. The definition for that is 
+I thought in the aftermath that I was just very unprepared. The definition for that is
+
 > 'having made inadequate preparations'.
 
 Given that we're only at the beginning of this journey then it can't really be that one. Hmmmmmm, so what could it be?  
