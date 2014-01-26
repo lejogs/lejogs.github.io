@@ -1,6 +1,7 @@
 ---
 layout: route
 category: routes
+title: Day 6 - Rossendale to Richmond
 tagline: Day 6 - Rossendale to Richmond
 tags: route
 comments: false
