@@ -1,6 +1,7 @@
 ---
 layout: route
 category: routes
+title: Day 12 - Tounge to John O'Groats
 tagline: Day 12 - Tounge to John O'Groats
 tags: route
 comments: false
