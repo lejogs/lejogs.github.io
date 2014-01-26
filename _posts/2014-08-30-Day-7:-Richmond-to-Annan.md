@@ -1,6 +1,7 @@
 ---
 layout: route
 category: routes
+title: Day 7 - Richmond to Annan
 tagline: Day 7 - Richmond to Annan
 tags: route
 comments: false
