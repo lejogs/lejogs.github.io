@@ -1,6 +1,7 @@
 ---
 layout: route
 category: routes
+title: Day 10 - Glencoe to Inverness
 tagline: Day 10 - Glencoe to Inverness
 tags: route
 comments: false
