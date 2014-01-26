@@ -2,7 +2,7 @@
 layout: route
 category: routes
 title: Day 11 - Inverness to Tounge
-tagline: Day 11 - Inverness to Tounge
+tagline: Day 11 - Inverness to Tounge 
 tags: route
 comments: false
 share: true
