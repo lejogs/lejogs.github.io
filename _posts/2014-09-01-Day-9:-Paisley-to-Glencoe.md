@@ -1,6 +1,7 @@
 ---
 layout: route
 category: routes
+title: Day 9 - Paisley to Glencoe
 tagline: Day 9 - Paisley to Glencoe
 tags: route
 comments: false
