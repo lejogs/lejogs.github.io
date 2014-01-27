@@ -76,10 +76,7 @@ description: "How we're going to get there"
         .attr("width", width)
         .attr("height", height)
         
-        var thecontent = d3.select(".entry-content")
-        .style("height",height + "px")
-        
-        thecontent.node().scrollIntoView()
+        svg.node().scrollIntoView()
         
         
         var projection = d3.geo.albers()
