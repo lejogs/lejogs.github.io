@@ -4,7 +4,6 @@ title: Route
 permalink : /route/index.html
 description: "How we're going to get there"
 ---
-&nbsp;
         <style>
             
             .subunit {
@@ -170,9 +169,7 @@ description: "How we're going to get there"
 
 <br><br>
 <ul class="post-list">
-{% for post in site.posts reversed %}
-{% if post.category contains 'routes' %}
+{% for post in site.categories.routes reversed %}
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endif %}
 {% endfor %}
 </ul>
