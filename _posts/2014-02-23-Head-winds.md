@@ -7,7 +7,7 @@ comments: true
 share: true
 image: 
      feature: ap/features/1445fe709513e6ec_0.jpg
-     thumb: ap/thumb/1445fe709513e6ec_0.jpg
+     thumb: ap/thumbs/1445fe709513e6ec_0.jpg
      square: ap/square/1445fe709513e6ec_0.jpg
 ---
 Cyclists, sailors and alfresco urinators all know

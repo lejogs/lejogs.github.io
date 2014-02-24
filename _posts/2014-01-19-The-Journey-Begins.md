@@ -7,7 +7,7 @@ comments: true
 share: true
 image: 
      feature: ap/features/143ac535ee230128_0.jpg
-     thumb: ap/thumb/143ac535ee230128_0.jpg
+     thumb: ap/thumbs/143ac535ee230128_0.jpg
      square: ap/square/143ac535ee230128_0.jpg
 ---
 

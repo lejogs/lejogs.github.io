@@ -7,7 +7,7 @@ comments: true
 share: true
 image: 
      feature: ap/features/143f33c9aeebdabb_0.jpg
-     thumb: ap/thumb/143f33c9aeebdabb_0.jpg
+     thumb: ap/thumbs/143f33c9aeebdabb_0.jpg
      square: ap/square/143f33c9aeebdabb_0.jpg
 ---
 Somehow in the chaos of helping my flat mate move out this morning I forgot
