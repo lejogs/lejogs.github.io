@@ -28,9 +28,7 @@ Honourable mentions:
 
 *  providing some incredible salted caramel + chocolate brownies (from Bad
 Brownie) to revive tired legs
-
 *  only being 3 minutes late
-
 * creative use of gaffer tape in a supporting role
 
 **Jacko**:
