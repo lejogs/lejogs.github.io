@@ -27,11 +27,13 @@ Honourable mentions:
 **Chris**:
 *  providing some incredible salted caramel + chocolate brownies (from Bad
 Brownie) to revive tired legs
+
 *  only being 3 minutes late
-*. creative use of gaffer tape in a supporting role
+
+* creative use of gaffer tape in a supporting role
 
 **Jacko**:
-*losing his Garmin by hiding it in his pocket
+* losing his Garmin by hiding it in his pocket
 
 <figure class="third">
 <a href = "/images/ap/standard/1445fe709513e6ec_0.jpg">
