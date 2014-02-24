@@ -25,6 +25,7 @@ delicious fish and chips on the sea front.
 Honourable mentions:
 
 **Chris**:
+
 *  providing some incredible salted caramel + chocolate brownies (from Bad
 Brownie) to revive tired legs
 
@@ -33,6 +34,7 @@ Brownie) to revive tired legs
 * creative use of gaffer tape in a supporting role
 
 **Jacko**:
+
 * losing his Garmin by hiding it in his pocket
 
 <figure class="third">
