@@ -7,7 +7,7 @@ comments: true
 share: true
 image: 
      feature: ap/features/143f33c9aeebdabb_0.jpg
-     thumb: ap/thumbs/143f33c9aeebdabb_0.jpg
+     thumb: ap/square/143f33c9aeebdabb_0.jpg
 ---
 Somehow in the chaos of helping my flat mate move out this morning I forgot
 to have breakfast. Now, sitting on a train back to London, eating what to
