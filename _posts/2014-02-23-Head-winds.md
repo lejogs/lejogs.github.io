@@ -38,9 +38,9 @@ Brownie) to revive tired legs
 
 
 ###Running totals
-*Miles:* 103
-*Number of punctures:* 1
-*Number of times Chris has been late:* 2 (63 minutes)
+<i class="icon-road"></i>**Miles:** 103<br>
+<i class="icon-wrench"></i>**Punctures:** 1<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
 <figure class="third">
 <a href = "/images/ap/standard/1445fe709513e6ec_0.jpg">
