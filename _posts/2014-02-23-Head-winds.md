@@ -19,7 +19,7 @@ Another good training ride for team LeJog, repeating the route of my
 previous solo ride, Chris, Jacko and I set out to Brighton - the wind was
 unimpressed and resolved to blow directly against us for the entire journey.
 
-We overcame the wind and the hills to rewarded ourselves with some
+We overcame the wind and the hills to reward ourselves with some
 delicious fish and chips on the sea front.
 
 Honourable mentions:
