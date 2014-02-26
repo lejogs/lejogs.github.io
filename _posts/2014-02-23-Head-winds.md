@@ -36,6 +36,12 @@ Brownie) to revive tired legs
 
 * losing his Garmin by hiding it in his pocket
 
+
+###Running totals
+<i class="icon-road"></i>**Miles:** 103<br>
+<i class="icon-wrench"></i>**Punctures:** 1<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
+
 <figure class="third">
 <a href = "/images/ap/standard/1445fe709513e6ec_0.jpg">
 <img src="/images/ap/standard/1445fe709513e6ec_0.jpg">

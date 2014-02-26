@@ -1,0 +1,32 @@
+---
+layout: page
+title: Image gallery
+description: "Cycling Land's End to John o'Groats and raising money for Leukemia and Lymphoma Research"
+permalink: /gallery/index.html
+tags: pics
+---
+        <link rel="stylesheet" href="/assets/css/galleria.classic.css">
+        <style>
+            #galleria{height:320px}
+        </style>
+        
+        {% include gallerydata.html %}
+
+        <!-- load jQuery -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+
+        <!-- load Galleria -->
+        <script src="/assets/js/galleria-1.3.5.min.js"></script>
+
+    
+    <script>
+
+    // Load the classic theme
+    Galleria.loadTheme('/assets/js/galleria.classic.min.js');
+
+    // Initialize Galleria
+    Galleria.run('#galleria');
+
+</script>
+
+
