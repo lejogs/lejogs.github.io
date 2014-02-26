@@ -1,0 +1,15 @@
+---
+layout: page
+title: Image Gallery
+description: "Cycling Land's End to John o'Groats and raising money for Leukemia and Lymphoma Research"
+permalink: /
+tags: pics
+---
+
+
+{% for post in site.categories.hints limit: 10 %} 
+  {% if post.image %}
+  <li>{{post.image}}</li>
+  {% endif %}
+{% endfor %}
+</ul>
