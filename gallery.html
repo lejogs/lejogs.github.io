@@ -7,10 +7,9 @@ tags: pics
 ---
         <link rel="stylesheet" href="/assets/css/galleria.classic.css">
         <style>
-            #galleria{height: 0.5625}
             .galleria-container img {
                 -webkit-transition: none
-        }
+                }
         </style>
         
         {% include gallerydata.html %}
@@ -25,6 +24,6 @@ tags: pics
     Galleria.loadTheme('/assets/js/galleria.classic.min.js');
 
     // Initialize Galleria
-    Galleria.run('#galleria');
+    Galleria.run('#galleria',{height: 0.5625});
             
     </script>
