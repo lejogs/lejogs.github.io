@@ -21,7 +21,7 @@ We're funding the madness ourselves so every penny goes straight to <a href ='ht
   {% for post in site.categories.posts limit: 10 %} 
   {% if post.image.thumb %}
   <li><article><a href="{{ site.url }}{{ post.url }}"><img src ="/images/{{post.image.thumb}}"/></a>
-    <small>{{post.title}}</small>
+    <figcaption>{{post.title}}</figcaption>
   </article></li>
   {% endif %}
 {% endfor %}
