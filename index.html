@@ -20,7 +20,9 @@ We're funding the madness ourselves so every penny goes straight to <a href ='ht
 <ul class="navigation-wrapper">
   {% for post in site.categories.posts limit: 10 %} 
   {% if post.image.thumb %}
-  <li><article><a href="{{ site.url }}{{ post.url }}"><img src ="/images/{{post.image.thumb}}"/></a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}"><img src ="/images/{{post.image.thumb}}"/></a>
+    <small>{{post.title}}</small>
+  </article></li>
   {% endif %}
 {% endfor %}
 </ul>
