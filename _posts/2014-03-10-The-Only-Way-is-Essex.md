@@ -28,6 +28,11 @@ sunshine of a spring day at 10am.
 > *Our first stop was at 10.02 to confirm that we shouldn't
 do a u-turn and should, in fact, continue straight for a bit*
 
+<figure>
+<a href = "/images/ap/standard/144abbae882b6c45_1.jpg">
+<img src="/images/ap/thumbs/144abbae882b6c45_1.jpg">
+</a>
+<figure>
 
 > *Our second stop, at 10.05, was to confirm that we
 should do a u-turn and then take the left at the roundabout*
@@ -75,4 +80,16 @@ confirming that we had, in fact, only ridden 24 miles and had missed the 10
 mile loop at the top of Epping Forest (we had been following the blue line
 though!).  We embraced the sunshine and beer
 and made our way back to mine for some roast beef and homebrew.  As I'm writing this the day after, I can
-confirm that the homebrew was a solid first batch. 		 	   		  
+confirm that the homebrew was a solid first batch.
+
+<figure>
+<a href = "/images/ap/standard/144abbae882b6c45_3.jpg">
+<img src="/images/ap/thumbs/144abbae882b6c45_3.jpg">
+</a>
+<figure>
+
+ ###Running totals
+<i class="icon-road"></i>**Miles:** 127<br>
+<i class="icon-wrench"></i>**Punctures:** 1<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
+
