@@ -61,7 +61,7 @@ dubbed
 > *"the new GoPro"*
 
 
-by Rich, which makes it obvious that he can see its value
+by Rich, which makes it obvious that he can see the value
 add potential.
 
 
