@@ -32,7 +32,7 @@ do a u-turn and should, in fact, continue straight for a bit*
 <a href = "/images/ap/standard/144abbae882b6c45_1.jpg">
 <img src="/images/ap/thumbs/144abbae882b6c45_1.jpg">
 </a>
-<figure>
+</figure>
 
 > *Our second stop, at 10.05, was to confirm that we
 should do a u-turn and then take the left at the roundabout*
@@ -86,7 +86,7 @@ confirm that the homebrew was a solid first batch.
 <a href = "/images/ap/standard/144abbae882b6c45_3.jpg">
 <img src="/images/ap/thumbs/144abbae882b6c45_3.jpg">
 </a>
-<figure>
+</figure>
 
  ###Running totals
 <i class="icon-road"></i>**Miles:** 127<br>
