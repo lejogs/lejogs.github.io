@@ -6,7 +6,7 @@ tags: chris post
 comments: true
 share: true
 ---
-I learned a few things from this week?s ride with the boys:
+I learned a few things from this week's ride with the boys:
 
 
 + Organise more rides to start 5 minutes away from
@@ -14,14 +14,14 @@ my house so that I don't add to my lateness accumulator.
 
 +  In the East, London very quickly disappears and
 countryside starts (albeit Essex countryside, but hey ho, beggars can't be
-choosers!).
+choosers...).
 
 
 We set out on a shorter-than-usual ride in the glorious
 sunshine of a spring day at 10am.
 
 
-> *Our first stop was at 10.02 to confirm that we shouldn?t
+> *Our first stop was at 10.02 to confirm that we shouldn't
 do a u-turn and should, in fact, continue straight for a bit*
 
 
@@ -39,14 +39,14 @@ and breeze block sized battery pack solution).
 According to Garmin, the Edge Touring gives you
 
 
-> *'the freedom to know you can find your way'*
+> *"the freedom to know you can find your way"*
 
 
 It didn't.  It mostly
 gave us comedy moments of route checking on an iPhone to validate the Garmin's
 directions/usefulness.  The new piece of
 kit reminded of a quote in a Sunday newspaper on Joe Kinnear being appointed as
-Newcastle's Director of Football, "if Joe Kinnear is then answer, then I don?t
+Newcastle's Director of Football, "if Joe Kinnear is the answer, then I don?t
 know what the question is".  To be fair
 though, we're now so used to Google Maps that a new, slightly crappier looking
 mapping interface on a unit smaller than a phone was going to take a bit of
@@ -70,5 +70,5 @@ in the unseasonably warm weather, we were outside a pub with a beer in hand,
 confirming that we had, in fact, only ridden 24 miles and had missed the 10
 mile loop at the top of Epping Forest (we had been following the blue line
 though!).  We embraced the sunshine and beer
-and made our way back to mine for some roast beef and homebrew.  As I?m writing this the day after, I can
+and made our way back to mine for some roast beef and homebrew.  As I'm writing this the day after, I can
 confirm that the homebrew was a solid first batch. 		 	   		  
