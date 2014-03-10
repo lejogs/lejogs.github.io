@@ -46,7 +46,7 @@ It didn't.  It mostly
 gave us comedy moments of route checking on an iPhone to validate the Garmin's
 directions/usefulness.  The new piece of
 kit reminded of a quote in a Sunday newspaper on Joe Kinnear being appointed as
-Newcastle's Director of Football, "if Joe Kinnear is the answer, then I don?t
+Newcastle's Director of Football, "if Joe Kinnear is the answer, then I don't
 know what the question is".  To be fair
 though, we're now so used to Google Maps that a new, slightly crappier looking
 mapping interface on a unit smaller than a phone was going to take a bit of
