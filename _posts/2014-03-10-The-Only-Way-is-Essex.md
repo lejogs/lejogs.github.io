@@ -5,6 +5,10 @@ tagline: The Only Way is Essex
 tags: chris post
 comments: true
 share: true
+image: 
+     feature: ap/features/144abbb35768a030_3.jpg
+     thumb: ap/thumbs/144abbb35768a030_3.jpg
+     square: ap/square/144abbb35768a030_3.jpg
 ---
 I learned a few things from this week's ride with the boys:
 
