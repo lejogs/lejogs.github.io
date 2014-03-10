@@ -30,7 +30,7 @@ do a u-turn and should, in fact, continue straight for a bit*
 
 <figure>
 <a href = "/images/ap/standard/144abbae882b6c45_1.jpg">
-<img src="/images/ap/thumbs/144abbae882b6c45_1.jpg">
+<img src="/images/ap/standard/144abbae882b6c45_1.jpg">
 </a>
 </figure>
 
@@ -84,11 +84,11 @@ confirm that the homebrew was a solid first batch.
 
 <figure>
 <a href = "/images/ap/standard/144abbae882b6c45_3.jpg">
-<img src="/images/ap/thumbs/144abbae882b6c45_3.jpg">
+<img src="/images/ap/standard/144abbae882b6c45_3.jpg">
 </a>
 </figure>
 
- ###Running totals
+###Running totals
 <i class="icon-road"></i>**Miles:** 127<br>
 <i class="icon-wrench"></i>**Punctures:** 1<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
