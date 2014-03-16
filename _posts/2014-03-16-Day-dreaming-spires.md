@@ -7,7 +7,7 @@ comments: true
 share: true
 image: 
      feature: ap/features/144caa8e9239e2fb_0.jpg
-     thumb: ap/thumb/144caa8e9239e2fb_0.jpg
+     thumb: ap/thumbs/144caa8e9239e2fb_0.jpg
      square: ap/square/144caa8e9239e2fb_0.jpg
 ---
 > The road to hills is paved with bad directions
