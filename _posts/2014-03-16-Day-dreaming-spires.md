@@ -28,9 +28,9 @@ Once in Oxford we began to realise the parallel challenge we'll face on the ride
 
 and have the first sip of a well earned beer. As the three of us sat down and stared blankly into the middle distance I began to think that magic 8-ball would have been better company.
 
+###The route
 
-
-
+<iframe width='600' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/5939532'></iframe>
 
 
 
