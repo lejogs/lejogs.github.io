@@ -1,7 +1,7 @@
 ---
 layout: post
 category: posts
-tagline: Fwd: New York finally comes to the party
+tagline: New York finally comes to the party
 tags: henry post pics
 comments: true
 share: true
