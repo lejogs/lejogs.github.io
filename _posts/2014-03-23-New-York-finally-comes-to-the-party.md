@@ -7,6 +7,7 @@ comments: true
 share: true
 ---
 > No excuses...
+
 ... they say, but in this particular case, I think the brutal winter has
 provided many valid reasons not to venture out on a road bike, including
 almost half a metre of snow, a mean temperature of 0 Celsius and low of -16
