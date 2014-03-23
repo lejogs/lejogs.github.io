@@ -39,7 +39,7 @@ the harbour to Manhattan.
 ###Running total
 <i class="icon-road"></i>**Miles in America:** 32<br>
 <i class="icon-wrench"></i>**Punctures:** 0<br>
-<i class="fa fa-circle-o"></i>**Bagels:** 0
+<i class="icon-circle-blank"></i>**Bagels:** 0
 
 <figure class="half">
 <a href = "/images/ap/standard/144f101bba5a5af7_1.jpg">
