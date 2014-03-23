@@ -41,7 +41,10 @@ the harbour to Manhattan.
 <i class="icon-wrench"></i>**Punctures:** 0<br>
 <i class="icon-circle-blank"></i>**Bagels:** 0
 
-<figure class="half">
+<figure class="third">
+<a href = "/images/ap/standard/henry.png">
+<img src="/images/ap/standard/henry.png">
+</a>
 <a href = "/images/ap/standard/144f101bba5a5af7_1.jpg">
 <img src="/images/ap/standard/144f101bba5a5af7_1.jpg">
 </a><a href = "/images/ap/standard/144f101bba5a5af7_2.jpg">
