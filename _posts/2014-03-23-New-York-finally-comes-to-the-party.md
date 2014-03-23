@@ -40,6 +40,7 @@ the harbour to Manhattan.
 **Miles in America:** 32
 **Punctures:** 0
 **Bagels:** 0
+
 <figure class="half">
 <a href = "/images/ap/standard/144f101bba5a5af7_1.jpg">
 <img src="/images/ap/standard/144f101bba5a5af7_1.jpg">
