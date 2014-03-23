@@ -37,9 +37,9 @@ Park, while not particularly inspiring, has a great park looking back over
 the harbour to Manhattan.
 
 ###Running total
-**Miles in America:** 32
-**Punctures:** 0
-**Bagels:** 0
+<i class="icon-road"></i>**Miles in America:** 32<br>
+<i class="icon-wrench"></i>**Punctures:** 0<br>
+<i class="icon-circle-o"></i>**Bagels:** 0
 
 <figure class="half">
 <a href = "/images/ap/standard/144f101bba5a5af7_1.jpg">
