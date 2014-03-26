@@ -12,7 +12,7 @@ image:
 ---
 
 
-Is cycling talent genetic or learned? 
+> *Is cycling talent genetic or learned?*
 
 In the hope of finding an answer we set off on the 55 miles to Cambridge - a city uniquely qualified to help with this question. 
 
@@ -28,7 +28,6 @@ It's a nice little route out of London and into the countryside to the east of t
 </a>
 </figure>
 
-
 We are definately improving as a team. Now we are managing to ride closer together it turns out that the energy saving effect of the peloton is no myth. When you are at the back you can cruise along with little effort as the guys in front do all the hard work. I can't help imagining what it would be like with lots of people if it is this obvious with only the 3 of us... 
 
 On a completely unrelated matter, if anyone wants to join us for a leg of the real thing then drop us a line!
@@ -43,7 +42,6 @@ After two less than satisfactory outings (see previous blogs) the Garmin was und
 <img src="/images/ap/standard/145009cd827a85f1_3.jpg">
 </a>
 </figure>
-
 
 With the miles under our belts and a pint in our hands we got the news that 3,454 miles away, on the other side of the Atlantic, Henry's training had kicked off. The team was now complete. 
 
