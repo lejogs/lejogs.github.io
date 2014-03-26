@@ -14,7 +14,7 @@ image:
 
 Is cycling talent genetic or learned? 
 
-In the hope of finding an answer we set off on the 53 miles to Cambridge - a city uniquely qualified to help with this question. 
+In the hope of finding an answer we set off on the 55 miles to Cambridge - a city uniquely qualified to help with this question. 
 
 Why? 
 
@@ -50,7 +50,7 @@ With the miles under our belts and a pint in our hands we got the news that 3,45
 By the way, in the excitement of another good day in the saddle we never got round to considering the original question. Answers on a postcard...
 
 ###Running totals
-<i class="icon-road"></i>**Miles:** 247<br>
+<i class="icon-road"></i>**Miles:** 249<br>
 <i class="icon-wrench"></i>**Punctures:** 1<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
