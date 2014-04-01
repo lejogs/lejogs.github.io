@@ -41,7 +41,7 @@ The ride out took us through Richmond Park (via the Hammersmith flyover thanks t
 
 
 
-So, Box Hill could only be described as bike porn. Pretty much all of London?s top-notch, shiny, new bikes were out in force. We felt entirely inadequate - me with a 'proud' lycra clad beer belly that's taken a few years of doing f*ck
+So, Box Hill could only be described as bike porn. Pretty much all of London's top-notch, shiny, new bikes were out in force. We felt entirely inadequate - me with a 'proud' lycra clad beer belly that's taken a few years of doing f*ck
  all to produce, Rich in sweatshirt material shorts and a Primani t-shirt, 'fashion-ripped' to perfection. We were also the only people that had stopped before the climb to sink a couple of pints and eat some chips and deep-fried whitebait.
 
 
