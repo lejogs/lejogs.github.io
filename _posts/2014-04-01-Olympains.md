@@ -23,7 +23,7 @@ It was, however, an incredible experience. Part of this was because Rich and I h
 
 > *Not too steep, but long, with a 'dig-in' factor.*
 
-The reward for the climb was about 8 miles of rolling downhill, where I was torn between being amazed by the feeling of flying versus the feeling of being a second away from being in a ditch with a bike wrapped around my head. It's a shame that Jacko couldnt make the ride due to family commitments - it did feel like we were leaving a man behind, and also that we were cheating him out of the one ride that he felt most strongly about wanting to do. It's okay though Jacko, we will definitely be doing this ride again!
+The reward for the climb was about 8 miles of rolling downhill, where I was torn between being amazed by the feeling of flying versus the feeling of being a second away from being in a ditch with a bike wrapped around my head. It's a shame that Jacko couldn't make the ride due to family commitments - it did feel like we were leaving a man behind, and also that we were cheating him out of the one ride that he felt most strongly about wanting to do. It's okay though Jacko, we will definitely be doing this ride again!
 
 We were meeting him for a Hawksmoor Sunday roast later in the evening though, so we were caught between telling him it was awful and the actual truth.
 
