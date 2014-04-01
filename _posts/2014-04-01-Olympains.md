@@ -47,7 +47,7 @@ A few things to note:
 4. A Hawksmoor Sunday roast is a worthy reward for a 90-mile day.
 5. Middle-distance staring is a solid pastime, and people who do it are very good company for dinner (my opinion, not shared by the majority).
 
-For the first time in this journey, I'm looking forwards to next week's ride.
+For the first time in this journey, I'm looking forwards to next week's ride...
 
 <figure class="">
 <a href = "/images/ap/standard/1451ecd374ca09c7_0.jpg">
