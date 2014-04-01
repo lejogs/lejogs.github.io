@@ -49,8 +49,6 @@ A few things to note:
 
 For the first time in this journey, I'm looking forwards to next week's ride.
 
-
-
 <figure class="">
 <a href = "/images/ap/standard/1451ecd374ca09c7_0.jpg">
 <img src="/images/ap/standard/1451ecd374ca09c7_0.jpg">
