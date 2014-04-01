@@ -17,11 +17,11 @@ Yep, it's not a typo. It was painful, but also very rewarding. We did Box Hill.
 
 I say did...
 
-> *I actually mean that we cycled less than half the laps of Box Hill then the Olympians did.*
+> I actually mean that we cycled less than half the laps of Box Hill then the Olympians did.
 
 It was, however, an incredible experience. Part of this was because Rich and I had built up Box Hill to be a sheer wall of a hill, with pain to be felt from every angle. But it wasn't. It was actually pretty easy as hills go.
 
-> *Not too steep, but long, with a 'dig-in' factor.*
+> Not too steep, but long, with a 'dig-in' factor.
 
 The reward for the climb was about 8 miles of rolling downhill, where I was torn between being amazed by the feeling of flying versus the feeling of being a second away from being in a ditch with a bike wrapped around my head. It's a shame that Jacko couldn't make the ride due to family commitments - it did feel like we were leaving a man behind, and also that we were cheating him out of the one ride that he felt most strongly about wanting to do. It's okay though Jacko, we will definitely be doing this ride again!
 
