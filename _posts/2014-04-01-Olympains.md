@@ -27,23 +27,22 @@ It was, however, an incredible experience. Part of this was because Rich and I h
 
 
 
-*not too steep, but long, with a ?dig-in? factor.*
+*not too steep, but long, with a 'dig-in' factor.*
 
-?
 
-The reward for the climb was about 8 miles of rolling downhill, where I was torn between being amazed by the feeling of flying versus the feeling of being a second away from being in a ditch with a bike wrapped around my head.? It?s a shame
- that Jacko couldn?t make the ride due to family commitments - it did feel like we were leaving a man behind, and also that we were cheating him out of the one ride that he felt most strongly about wanting to do.? It?s okay though Jacko, we will definitely
+
+The reward for the climb was about 8 miles of rolling downhill, where I was torn between being amazed by the feeling of flying versus the feeling of being a second away from being in a ditch with a bike wrapped around my head. It's a shame
+ that Jacko couldnt make the ride due to family commitments - it did feel like we were leaving a man behind, and also that we were cheating him out of the one ride that he felt most strongly about wanting to do. It's okay though Jacko, we will definitely
  be doing this ride again!? We were meeting him for a Hawksmoor Sunday roast later in the evening though, so we were caught between telling him it was awful and the actual truth.
 
-?
 
-The ride out took us through Richmond Park (via the Hammersmith flyover ? thanks to Pru Ride London for letting us pick their route but them not closing the roads for two riders like they did for thousands of others on the organised ride
- last summer?).? We did see the incredible sight of 50-odd deer lying in morning sunshine en-route ? a perfect start to the day/ride.
-
+The ride out took us through Richmond Park (via the Hammersmith flyover thanks to Pru Ride London for letting us pick their route but them not closing the roads for two riders like they did for thousands of others on the organised ride
+ last summer). We did see the incredible sight of 50-odd deer lying in morning sunshine en-route a perfect start to the day/ride.
 
 
-So, Box Hill could only be described as bike porn.? Pretty much all of London?s top-notch, shiny, new bikes were out in force.? We felt entirely inadequate - me with a ?proud? lycra clad beer belly that?s taken a few years of doing f*ck
- all to produce, Rich in sweatshirt material shorts and a Primani t-shirt, ?fashion-ripped? to perfection.? We were also the only people that had stopped before the climb to sink a couple of pints and eat some chips and deep-fried whitebait.
+
+So, Box Hill could only be described as bike porn. Pretty much all of London?s top-notch, shiny, new bikes were out in force. We felt entirely inadequate - me with a 'proud' lycra clad beer belly that's taken a few years of doing f*ck
+ all to produce, Rich in sweatshirt material shorts and a Primani t-shirt, 'fashion-ripped' to perfection. We were also the only people that had stopped before the climb to sink a couple of pints and eat some chips and deep-fried whitebait.
 
 
 
@@ -54,9 +53,8 @@ So, Box Hill could only be described as bike porn.? Pretty much all of London?s 
 Well screw them all, we nailed it (relative term).
 
 
-
 The ride home was not quite as pleasant as the ride out. We were close to hitting the cycling 'wall' and had to get some well-earned chocolate down us to give us enough energy to get home, but we made it and now know that we can hit up
- 90-odd miles in a day.? Thank God for the Hawksmoor booking that was the reward dragging us along the Northern Line route back into town.? A bit more careful planning around nutrition and speed should see us right come the end of August.
+ 90-odd miles in a day. Thank God for the Hawksmoor booking that was the reward dragging us along the Northern Line route back into town. A bit more careful planning around nutrition and speed should see us right come the end of August.
 
 
 A few things to note:
