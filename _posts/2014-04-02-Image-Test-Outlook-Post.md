@@ -11,17 +11,6 @@ image:
      square: ap/square/145246fb88af7b54_0.jpg
 ---
 
-________________________________________
-From: Rich Bradish
-Sent: 02 April 2014 22:19
-To: blogtheshizznazzoutofthisyoumotherlover@lejo.gs
-Subject: Test Outlook Post
-
-________________________________________
-From: Rich Bradish
-Sent: 02 April 2014 08:32
-To: blogtheshizznazzoutofthisyoumotherlover@lejo.gs
-Subject: Test Outlook Post
 
 Post with ‘quotes’
 
