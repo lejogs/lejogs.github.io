@@ -17,7 +17,7 @@ Yep, it's not a typo. It was painful, but also very rewarding. We did Box Hill.
 
 I say did...
 
-> I actually mean that we cycled less than half the laps of Box Hill then the Olympians did.
+> I actually mean that we cycled less than half the laps of Box Hill than the Olympians did.
 
 It was, however, an incredible experience. Part of this was because Rich and I had built up Box Hill to be a sheer wall of a hill, with pain to be felt from every angle. But it wasn't. It was actually pretty easy as hills go.
 
