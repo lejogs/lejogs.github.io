@@ -40,6 +40,8 @@ My return to the team also brought with it the return of punctures. It turns out
 
 Oh well, it's all good practice and meant that Chris could deploy his new tyre inflating gadget. Luckily this is much less temperamental than either the GoPro or the Garmin and worked like a dream. One second the tyre is flat and the next it's at 120psi and we were ready to roll again.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/mA4N0hw_-Xw" frameborder="0" allowfullscreen></iframe>
+
 It turns out we climbed 3882ft which surprisingly is more than the lads did on Box Hill the previous weekend. Cue plenty of chat about legs hurting and an evening of "middle-distance staring".
 
 So, another successful and very enjoyable ride. There are another 97 miles to cover so we'll definitely be heading back to the Chilterns at some point soon. 
