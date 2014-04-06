@@ -50,10 +50,3 @@ So, another successful and very enjoyable ride. There are another 97 miles to co
 ###The route
 
 <iframe width='600' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/6135449'></iframe>
-
-<figure class="half">
-<a href="/images/ap/standard/14536f1041dbd962_0.jpg">
-<img src="/images/ap/standard/14536f1041dbd962_0.jpg">
-</a><a href="/images/ap/standard/14536f1041dbd962_1.jpg">
-<img src="/images/ap/standard/14536f1041dbd962_1.jpg">
-</a></figure>
