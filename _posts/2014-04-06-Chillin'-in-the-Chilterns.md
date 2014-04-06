@@ -23,9 +23,16 @@ On this face of it this would seem to be the definition of "pointless" as  Berkh
 <figure>
 </a><a href="/images/ap/standard/14536f1041dbd962_1.jpg">
 <img src="/images/ap/standard/14536f1041dbd962_1.jpg">
-</a></figure>
+</a>
+</figure>
 
 We met at Euston station where Chris and Rich seemed genuinely pleased to have me back on the team. However, as the ride progressed and we passed brilliant looking pub after brilliant looking pub after ... well, you get the picture ... they began to sound less pleased at the new level of discipline imposed (see last week's blog) and actually suspect I was taunting them. The cry of "pub" became more strangled with every shout.
+
+<figure>
+<a href="/images/ap/standard/14536f1041dbd962_0.jpg">
+<img src="/images/ap/standard/14536f1041dbd962_0.jpg">
+</a>
+</figure>
 
 My return to the team also brought with it the return of punctures. It turns out that Gatorskin tyres are not immune to getting a hole in the side wall and once this happens the inner tube doesn't stand a chance. Twice. 
 
