@@ -36,7 +36,7 @@ It turns out we climbed 3882ft which surprisingly is more than the lads did on B
 So, another successful and very enjoyable ride. There are another 97 miles to cover so we'll definitely be heading back to the Chilterns at some point soon. 
 
 ###Running totals
-<i class="icon-road"></i>**Miles:* 322<br>
+<i class="icon-road"></i>**Miles:** 322<br>
 <i class="icon-wrench"></i>**Punctures:** 3<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
