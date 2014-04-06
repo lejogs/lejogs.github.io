@@ -48,3 +48,4 @@ Plenty more training needed, but it feels like progress.
 <a href = "/images/ap/standard/143f33c9aeebdabb_0.jpg">
 <img src="/images/ap/standard/143f33c9aeebdabb_0.jpg">
 </a></figure>
+
