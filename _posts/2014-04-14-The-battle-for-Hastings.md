@@ -51,29 +51,7 @@ if any of us is laid low by mechanical failure. Today, with aching legs I'm a li
 <i class="icon-wrench"></i>**Punctures:** 5<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure class="third">
-<a href="/images/ap/standard/14561793f7288760_0.jpg">
-<img src="/images/ap/standard/14561793f7288760_0.jpg">
-</a><a href="/images/ap/standard/14561793f7288760_2.jpg">
+<figure>
+<a href="/images/ap/standard/14561793f7288760_2.jpg">
 <img src="/images/ap/standard/14561793f7288760_2.jpg">
-</a><a href="/images/ap/standard/14561793f7288760_4.jpg">
-<img src="/images/ap/standard/14561793f7288760_4.jpg">
 </a></figure>
