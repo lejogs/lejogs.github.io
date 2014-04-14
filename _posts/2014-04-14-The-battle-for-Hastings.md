@@ -27,18 +27,24 @@ The nadir of broken bikes and bruised riders reached, we climbed literally and m
 > I began to think we might even have looked 'good'.
 
 <figure class="half">
-</a><a href="/images/ap/standard/14561793f7288760_1.jpg">
+<a href="/images/ap/standard/14561793f7288760_1.jpg">
 <img src="/images/ap/standard/14561793f7288760_1.jpg">
 </a><a href="/images/ap/standard/14561793f7288760_3.jpg">
 <img src="/images/ap/standard/14561793f7288760_3.jpg">
 </a></figure>
-
 
 The ride (at 81 miles) is about as far as we've gone and the vertical ascent (~5000ft) makes it our hilliest proposition to date. The gut-wrenching sound of a cycle crash is something I hope won't grace our trips again although I'm sure we'll continue with the mantra of
 
 > 'no man left behind'
 
 if any of us is laid low by mechanical failure. Today, with aching legs I'm a little glad we've got a week off to enjoy the bank-holiday next weekend!
+
+<figure class="half">
+<a href="/images/ap/standard/14561793f7288760_0.jpg">
+<img src="/images/ap/standard/14561793f7288760_0.jpg">
+</a><a href="/images/ap/standard/14561793f7288760_4.jpg">
+<img src="/images/ap/standard/14561793f7288760_4.jpg">
+</a></figure>
 
 ###Running totals
 <i class="icon-road"></i>**Miles:** 403<br>
@@ -66,12 +72,8 @@ if any of us is laid low by mechanical failure. Today, with aching legs I'm a li
 <figure class="third">
 <a href="/images/ap/standard/14561793f7288760_0.jpg">
 <img src="/images/ap/standard/14561793f7288760_0.jpg">
-</a><a href="/images/ap/standard/14561793f7288760_1.jpg">
-<img src="/images/ap/standard/14561793f7288760_1.jpg">
 </a><a href="/images/ap/standard/14561793f7288760_2.jpg">
 <img src="/images/ap/standard/14561793f7288760_2.jpg">
-</a><a href="/images/ap/standard/14561793f7288760_3.jpg">
-<img src="/images/ap/standard/14561793f7288760_3.jpg">
 </a><a href="/images/ap/standard/14561793f7288760_4.jpg">
 <img src="/images/ap/standard/14561793f7288760_4.jpg">
 </a></figure>
