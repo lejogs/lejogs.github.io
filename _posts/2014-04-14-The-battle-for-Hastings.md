@@ -26,6 +26,14 @@ The nadir of broken bikes and bruised riders reached, we climbed literally and m
 
 > I began to think we might even have looked 'good'.
 
+<figure class="half">
+</a><a href="/images/ap/standard/14561793f7288760_1.jpg">
+<img src="/images/ap/standard/14561793f7288760_1.jpg">
+</a><a href="/images/ap/standard/14561793f7288760_3.jpg">
+<img src="/images/ap/standard/14561793f7288760_3.jpg">
+</a></figure>
+
+
 The ride (at 81 miles) is about as far as we've gone and the vertical ascent (~5000ft) makes it our hilliest proposition to date. The gut-wrenching sound of a cycle crash is something I hope won't grace our trips again although I'm sure we'll continue with the mantra of
 
 > 'no man left behind'
