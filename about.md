@@ -47,7 +47,7 @@ You may think this is a jolly holiday, you may think that money's a bit tight at
 
 So what are you waiting for?
 
-Click the button to <a href = 'http://virginmoneygiving.com/lejogs' class = 'btn'>sponsor</a> us!
+Click the button to <a href = 'https://www.justgiving.com/lejogs2014' class = 'btn'>sponsor</a> us!
 
 Thank you.
 
