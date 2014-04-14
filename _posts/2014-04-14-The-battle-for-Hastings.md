@@ -16,7 +16,7 @@ Football - 'tis oft said - is a game of two halves. As lazy aphorisms go, it's a
 
 The first half was characterised by sprawling London, lots of traffic and a general agreement that the ride was a little bit rubbish. The Garmin did its "thing" too.
 
-Stretching the metaphor to breaking point, half-time came as we entered the lovely town of Sevenoaks, we began to marvel that perhaps we'd left the never-ending traffic and - as I would later regret - we passed a deer park. The four of us, joined this week by my dad, (who for the sake of confusion is also called Chris) looked left in unison to appreciate the lovely deer park. At this point my dad struck a cone in the middle of the road and came off his bike, puncturing a tire, snapping the gears off his handlebars and brusing his hip. Most gallingly, 
+Stretching the metaphor to breaking point, half-time came as we entered the lovely town of Sevenoaks, we began to marvel that perhaps we'd left the never-ending traffic and - as I would later regret - we passed a deer park. The four of us, joined this week by my dad, (who for the sake of confusion is also called Chris) looked left in unison to appreciate the lovely deer park. At this point my dad struck a cone in the middle of the road and came off his bike, puncturing a tire, snapping the gear shifter off his handlebars and brusing his hip. Most gallingly, 
 
 > it's not even a deer park.
 
