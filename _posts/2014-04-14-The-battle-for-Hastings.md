@@ -32,7 +32,6 @@ The ride (at 81 miles) is about as far as we've gone and the vertical ascent (~5
 
 if any of us is laid low by mechanical failure. Today, with aching legs I'm a little glad we've got a week off to enjoy the bank-holiday next weekend!
 
-
 ###Running totals
 <i class="icon-road"></i>**Miles:** 403<br>
 <i class="icon-wrench"></i>**Punctures:** 5<br>
