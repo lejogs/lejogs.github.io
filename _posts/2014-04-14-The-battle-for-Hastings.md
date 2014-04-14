@@ -51,6 +51,10 @@ if any of us is laid low by mechanical failure. Today, with aching legs I'm a li
 <i class="icon-wrench"></i>**Punctures:** 5<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
+###The route
+
+<iframe width='600' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/6226292'></iframe>
+
 <figure>
 <a href="/images/ap/standard/14561793f7288760_2.jpg">
 <img src="/images/ap/standard/14561793f7288760_2.jpg">
