@@ -23,10 +23,10 @@ past - there was
 
 > something about a hill at the end,
 
-I vaguely remember it have a solid 'English' sounding name and him not being a big
+I vaguely remember it having a solid 'English' sounding name and him not being a big
 fan of it.
 
-Around 50 miles into the ride I saw a sign that brought his works back more
+Around 50 miles into the ride I saw a sign that brought his words back more
 clearly
 
 > Ditchling Beacon
@@ -42,7 +42,7 @@ cyclist on a Brompton made it to the top, looking like his lungs were about
 to burst and I suddenly very unfit straddling my super-light carbon-fibre
 bike.
 
-The Beacon slain it was a beautiful down hill into Brighton for the train.
+The Beacon slain, it was a beautiful down-hill into Brighton for the train.
 Plenty more training needed, but it feels like progress.
 <figure class="">
 <a href = "/images/ap/standard/143f33c9aeebdabb_0.jpg">
