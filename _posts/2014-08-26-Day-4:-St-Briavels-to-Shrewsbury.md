@@ -9,3 +9,5 @@ share: true
 ---
 
 Day 4
+
+<iframe width='100%' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/6265392'></iframe>
