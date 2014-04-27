@@ -13,7 +13,7 @@ If ever we had occasion to doubt the words of three time Tour de France champion
 
 To be fair, we didn’t have the best of preparations. 
 
-Chris spent Friday evening destroying his thighs with a brutal spin class, Rich was up late attempting to manufacture curds for a homemade poutine, and I went out for a Thai curry which it turned out probably contained ingredients that were not 100% fresh. On top of all this we’d missed out on doing a training ride the previous weekend.
+Chris spent Friday evening destroying his thighs with a brutal spin class, Rich was up late attempting to manufacture curds for a homemade <a href='http://en.wikipedia.org/wiki/Poutine'>poutine</a>, and I went out for a Thai curry which it turned out probably contained ingredients that were not 100% fresh. On top of all this we’d missed out on doing a training ride the previous weekend.
 
 So thighs burning (Chris), poutine yearning (Rich) and stomach churning (me) we set off to the south west of London and out through Richmond Park into the Surrey Hills.
 
