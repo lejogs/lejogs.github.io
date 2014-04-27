@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-It never gets any easier, you just go faster.
+> 'It never gets any easier, you just go faster.'
 
 If we ever had occasion to doubt the words of three time Tour de France champion Greg LeMond then Saturday’s ride brought us back to earth with a bang.
 
