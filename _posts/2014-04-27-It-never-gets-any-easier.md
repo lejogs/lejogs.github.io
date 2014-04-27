@@ -21,6 +21,13 @@ The BBC had forecast a miserable day of rain, which of course meant that the wea
 
 In between the cycling Mecca of Richmond Park and the cycling Mecca of Box Hill we rolled through the Surrey countryside tackling each incline as it came. A slog to a summit was always rewarded by a long downhill run which replaced the pain of the climb with the fear of the fast descent.
 
+<figure class="half">
+<a href="/images/ap/standard/145a5263d4f8499d_1.jpg">
+<img src="/images/ap/standard/145a5263d4f8499d_1.jpg">
+</a><a href="/images/ap/standard/145a5263d4f8499d_2.jpg">
+<img src="/images/ap/standard/145a5263d4f8499d_2.jpg">
+</a></figure>
+
 The final climb was up Box Hill and we were greeted at the top by a flapjack and a fantastic view of the countryside before heading back towards London.
 
 Arriving back we were exhausted but a quick check of the stats made for very happy reading. 75 miles in less than 5 hours (an average pace of 15.5mph) and in this time we’d climbed almost 3000ft.
