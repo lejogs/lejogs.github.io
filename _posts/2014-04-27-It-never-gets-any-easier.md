@@ -9,7 +9,7 @@ share: true
 
 > 'It never gets any easier, you just go faster.'
 
-If we ever had occasion to doubt the words of three time Tour de France champion Greg LeMond then Saturday’s ride brought us back to earth with a bang.
+If ever we had occasion to doubt the words of three time Tour de France champion Greg LeMond then Saturday’s ride brought us back to earth with a bang.
 
 To be fair, we didn’t have the best of preparations. 
 
