@@ -27,4 +27,8 @@ Arriving back we were exhausted but a quick check of the stats made for very hap
 
 Turns out Greg LeMond might have known what he was talking about.
 
+###Running totals
+<i class="icon-road"></i>**Miles:** 478<br>
+<i class="icon-wrench"></i>**Punctures:** 5<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
