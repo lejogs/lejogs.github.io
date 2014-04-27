@@ -32,3 +32,7 @@ Turns out Greg LeMond might have known what he was talking about.
 <i class="icon-wrench"></i>**Punctures:** 5<br>
 <i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
+###The route
+
+<iframe width='600' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/6347106'></iframe>
+
