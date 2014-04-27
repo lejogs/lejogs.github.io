@@ -6,9 +6,8 @@ tags: jacko post
 comments: true
 share: true
 image: 
-  
+     feature: ap/features/145a5263d4f8499d_0.jpg
      thumb: ap/thumbs/145a5263d4f8499d_0.jpg
-
 ---
 
 > 'It never gets any easier, you just go faster.'
