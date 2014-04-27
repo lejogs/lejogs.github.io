@@ -30,6 +30,13 @@ In between the cycling Mecca of Richmond Park and the cycling Mecca of Box Hill 
 
 The final climb was up Box Hill and we were greeted at the top by a flapjack and a fantastic view of the countryside before heading back towards London.
 
+<figure class="half">
+<a href="/images/ap/standard/145a5263d4f8499d_3.jpg">
+<img src="/images/ap/standard/145a5263d4f8499d_3.jpg">
+</a><a href="/images/ap/standard/145a5263d4f8499d_4.jpg">
+<img src="/images/ap/standard/145a5263d4f8499d_4.jpg">
+</a></figure>
+
 Arriving back we were exhausted but a quick check of the stats made for very happy reading. 75 miles in less than 5 hours (an average pace of 15.5mph) and in this time we’d climbed almost 3000ft.
 
 Turns out Greg LeMond might have known what he was talking about.
