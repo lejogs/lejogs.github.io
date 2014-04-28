@@ -2,7 +2,7 @@
 layout: post
 category: posts
 tagline: It never gets any easier
-tags: jacko post
+tags: jacko post pics
 comments: true
 share: true
 image: 
