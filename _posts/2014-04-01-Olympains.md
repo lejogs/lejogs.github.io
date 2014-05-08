@@ -13,7 +13,7 @@ image:
 
 
 
-Yep, it's not a typo. It was painful, but also very rewarding. We did Box Hill.
+Yep, it's not a typo. It was painful, but also very rewarding. We did Box Hill. 
 
 I say did...
 
