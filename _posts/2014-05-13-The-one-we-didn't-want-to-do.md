@@ -29,16 +29,7 @@ So all's well that ends well...
 Well, almost. At the traffic lights in Stratford a plastic carrier bag got caught in my chain, it jammed, and the rear derailleur sheared off my bike. Maybe this was the one we didn't want to do!
 
 
-
-
-
-
-
-
-
-Sent from my iPhone<figure class="half">
-<a href="/images/ap/standard/145f76aac3d3a796_0.jpg">
-<img src="/images/ap/standard/145f76aac3d3a796_0.jpg">
-</a><a href="/images/ap/standard/145f76aac3d3a796_1.jpg">
+<figure>
+<a href="/images/ap/standard/145f76aac3d3a796_1.jpg">
 <img src="/images/ap/standard/145f76aac3d3a796_1.jpg">
 </a></figure>
