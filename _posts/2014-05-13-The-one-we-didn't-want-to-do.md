@@ -14,7 +14,9 @@ It was bound to happen eventually. It was, as they say, inevitable.
 
 We knew in advance that Rich couldn't make a ride this weekend and things steadily deteriorated from there. The weather didn't help. Cloudy, windy, heavy rain showers - altogether pretty miserable. Chris wasn't feeling well and I was suffering a bit after agreeing to "one more for the road" the night before. 
 
-The combination of these events was enough to create the training day we'd long been expecting ... this was the one we didn't want to do.
+The combination of these events was enough to create the training day we'd long been expecting... 
+
+> *this was the one we didn't want to do.*
 
 In the interests of full disclosure, I didn't have a very high opinion of us. I'd always assumed that faced with such a situation we'd choose to sack off the ride in favour of the pub. It was therefore a proud moment when decided to just get on with it!
 
