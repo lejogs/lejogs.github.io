@@ -20,7 +20,7 @@ The combination of these events was enough to create the training day we'd long 
 
 In the interests of full disclosure, I didn't have a very high opinion of us. I'd always assumed that faced with such a situation we'd choose to sack off the ride in favour of the pub. It was therefore a proud moment when decided to just get on with it!
 
-The route was our second attempt around Epping forest and into the Essex countryside - the last one ending in failure thanks to the unique navigational capabilities of the Garmin (see "The only way is Essex" and blogs passim). 
+The route was our second attempt around Epping forest and into the Essex countryside - the last one ending in failure thanks to the unique navigational capabilities of the Garmin (see "The Only Way is Essex" and blogs passim). 
 
 This time we got it right and weren't disappointed. The undulating narrow country lanes made us quickly forget the reasons we had almost stayed in London. 
 
