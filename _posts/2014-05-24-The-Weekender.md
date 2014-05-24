@@ -35,7 +35,6 @@ The route took us through idyllic villages, past a windmill, into fords and past
 Garmin fail.  So, with the Garmin now a redundant piece of plastic, we navigated by sign-post, dodgy iPhone signal and various apps through yet more beautiful countryside (probably cannot reiterate that enough) to the outskirts of Bath.  It was in these outskirts that two things happened:
 
 1. We saw the most beautiful cricket ground, with a match being played out in front of an old Roman viaduct
-
 2. We saw the final hurdle between us and Bath.  Brassknocker Hill (note – we could take a tunnel to avoid the hill)
 
 The hill was a comedy-named beast, pretty much beating all of us into at least one stop.  While I was cursing Jacko with sweat was pouring out of every pore, Rich was nearly buckaroo-ing his bike when trying to get back on to continue climbing.  But we got there eventually.
