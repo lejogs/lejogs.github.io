@@ -95,7 +95,7 @@ The last 10 miles into Winchester were tough; undulating countryside, but very t
 
 > *The Fosters train beer never tasted so good!*
 
-All in all, a solid weekend that goes a long way to demonstrating that we should be okay come August, both mentally and physically – although our repertoire of songs has to be improved before then…
+All in all, a solid weekend that goes a long way to demonstrating that we should be okay come August, both mentally and physically – although our repertoire of songs has to be improved before then.
 
 <figure class="third">
 <a href="/images/ap/standard/1462e947e482e5aa_0.jpg">
