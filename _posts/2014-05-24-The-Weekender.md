@@ -82,14 +82,14 @@ A trip to the famed Royal Crescent for a couple of photos and then we were on ou
 
 With that punchy start dealt with, we got our legs spinning back through the beautiful countryside and towards Winchester.  It’s good to note that we all shared the same ‘my legs don’t feel too bad today’ chat, apart from a niggle in my knee that I’d dosed with ibuprofen and a few sores in the area now deemed
 
-> *‘the San Andreas Fault’, which the chammy cream was helping with!*
+> *‘the San Andreas Fault’, which the chamois cream was helping with!*
 
 <figure>
 </a><a href="/images/ap/standard/1462e947e482e5aa_6.jpg">
 <img src="/images/ap/standard/1462e947e482e5aa_6.jpg">
 </a></figure>
 
-The route on the way back was just as pretty as the previous day, bar a few hiccups when having to content with a no cycling allowed alleyway down a steep hill, a stop-start railway line with gates every 50m or so, and a gravel track up a steep hill.  Sadly we couldn’t blame the Garmin as it was guiding us precisely along our chosen route.  At least we got to learn a new, probably northern, word for alleyway – the giddle.
+The route on the way back was just as pretty as the previous day, bar a few hiccups when having to content with a no cycling allowed alleyway down a steep hill, a stop-start railway line with gates every 50m or so, and a gravel track up a steep hill.  Sadly we couldn’t blame the Garmin as it was guiding us precisely along our chosen route.  At least we got to learn a new, probably northern, word for alleyway – the ginnel.
 
 The last 10 miles into Winchester were tough; undulating countryside, but very tired legs and probably not enough water consumed on such a baking hot day.
 
