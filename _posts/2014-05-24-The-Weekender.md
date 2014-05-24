@@ -46,6 +46,11 @@ to eat – cue nearly falling off every time we tried to multi-task (well,
 pedal and eat), and sod’s law being that the road turned into a pot-holed
 joy every time.
 
+<figure>
+<a href="/images/ap/standard/1462e947e482e5aa_3.jpg">
+<img src="/images/ap/standard/1462e947e482e5aa_3.jpg">
+</a></figure>
+
 
 Whether the gels and blocks actually work, or are just a great placebo, is
 a valid question, but they got us through both rides and were worth every
@@ -60,6 +65,10 @@ we arrived at our final destination, Pewsey.
 
 > *Pewsey is about 35 miles from Bath.*
 
+<figure>
+<a href="/images/ap/standard/1462e947e482e5aa_4.jpg">
+<img src="/images/ap/standard/1462e947e482e5aa_4.jpg">
+</a></figure>
 
 Garmin fail.  So, with the Garmin now a redundant piece of plastic, we
 navigated by sign-post, dodgy iPhone signal and various apps through yet
@@ -150,10 +159,6 @@ repertoire of songs has to be improved before then…
 <img src="/images/ap/standard/1462e947e482e5aa_1.jpg">
 </a><a href="/images/ap/standard/1462e947e482e5aa_2.jpg">
 <img src="/images/ap/standard/1462e947e482e5aa_2.jpg">
-</a><a href="/images/ap/standard/1462e947e482e5aa_3.jpg">
-<img src="/images/ap/standard/1462e947e482e5aa_3.jpg">
-</a><a href="/images/ap/standard/1462e947e482e5aa_4.jpg">
-<img src="/images/ap/standard/1462e947e482e5aa_4.jpg">
 </a><a href="/images/ap/standard/1462e947e482e5aa_5.jpg">
 <img src="/images/ap/standard/1462e947e482e5aa_5.jpg">
 </a><a href="/images/ap/standard/1462e947e482e5aa_6.jpg">
