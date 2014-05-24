@@ -124,7 +124,7 @@ alleyway down a steep hill, a stop-start railway line with gates every 50m or
 so, and a gravel track up a steep hill.  Sadly
 we couldn’t blame the Garmin as it was guiding us precisely along our chosen
 route.  At least we got to learn a new,
-probably northern, word for alleyway – the giddle.
+probably northern, word for alleyway – the ginnel.
 
 
 The last 10 miles into Winchester were tough; undulating countryside, but very tired legs
