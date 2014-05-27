@@ -22,7 +22,7 @@ That probably sums up the random delirium that is now setting in on our long rid
 
 > *which was a significant improvement on his rendition of Summer Holiday that immediately preceded it…*
 
-Rich had assigned himself Captain Discipline (a bit of a change from Captain Belligerent, which I’m sure that’ll be a pleasure to read in a future blog post), planning the fuel for the ride by creating each of us a suspicious looking cling film wrapped package of gels and shot blocks (caffeine charged jelly sweets).  He took charge of shouting when and what to eat – cue nearly falling off every time we tried to multi-task (well, pedal and eat), and sod’s law being that the road turned into a pot-holed joy every time.
+Rich had assigned himself Captain Discipline (a bit of a change from Captain Belligerent, which I’m sure will be a pleasure to read in a future blog post), planning the fuel for the ride by creating each of us a suspicious looking cling film wrapped package of gels and shot blocks (caffeine charged jelly sweets).  He took charge of shouting when and what to eat – cue nearly falling off every time we tried to multi-task (well, pedal and eat), and sod’s law being that the road turned into a pot-holed joy every time.
 
 <figure>
 <a href="/images/ap/standard/1462e947e482e5aa_3.jpg">
@@ -51,7 +51,7 @@ Garmin fail.  So, with the Garmin now a redundant piece of plastic, we navigated
 <img src="/images/ap/standard/1462e947e482e5aa_5.jpg">
 </a></figure>
 
-The hill was a comedy-named beast, pretty much beating all of us into at least one stop.  While I was cursing Jacko with sweat was pouring out of every pore, Rich was nearly buckaroo-ing his bike when trying to get back on to continue climbing.  But we got there eventually.
+The hill was a comedy-named beast, pretty much beating all of us into at least one stop.  While I was cursing Jacko with sweat pouring out of every pore, Rich was nearly buckaroo-ing his bike when trying to get back on to continue climbing.  But we got there eventually.
 
 > *They say that you have to earn your downhill; we certainly did that*
 
