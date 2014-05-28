@@ -97,9 +97,15 @@ The last 10 miles into Winchester were tough; undulating countryside, but very t
 
 All in all, a solid weekend that goes a long way to demonstrating that we should be okay come August, both mentally and physically – although our repertoire of songs has to be improved before then.
 
-<figure class="third">
+<figure class="half">
 <a href="/images/ap/standard/1462e947e482e5aa_0.jpg">
 <img src="/images/ap/standard/1462e947e482e5aa_0.jpg">
 </a><a href="/images/ap/standard/1462e947e482e5aa_2.jpg">
 <img src="/images/ap/standard/1462e947e482e5aa_2.jpg">
 </a></figure>
+
+###Running totals
+<i class="icon-road"></i>**Miles:** 641<br>
+<i class="icon-wrench"></i>**Punctures:** 5<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
+
