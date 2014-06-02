@@ -20,12 +20,26 @@ Still, practice makes perfect and Jacko is now a tuned tire changing
 machine - back up the hill to the cycle shop to use their pump and we
 were ready to start. Again.
 
+<figure>
+<a href="/images/ap/standard/1465bfc58f34b0b5_1.jpg">
+<img src="/images/ap/standard/1465bfc58f34b0b5_1.jpg">
+</a>
+</figure>
+
 The ride out of London is normally a painful process but a well
 plotted route made it an easy ride through Bromley, where London
 relents and the beautiful rolling countryside begins. We found
 ourselves back in the clutches of our erstwhile nemesis, Titsey Hill
 (blogs passim) but thankfully going down it this time – which turned
 out to be almost as terrifying, if a lot less tiring.
+
+<figure class="half">
+<a href="/images/ap/standard/1465bfc58f34b0b5_2.jpg">
+<img src="/images/ap/standard/1465bfc58f34b0b5_2.jpg">
+</a><a href="/images/ap/standard/1465bfc58f34b0b5_3.jpg">
+<img src="/images/ap/standard/1465bfc58f34b0b5_3.jpg">
+</a>
+</figure>
 
 Titsey Hill takes you onto the Pilgrims' Way, a path that runs from
 Winchester to Cantebury and brought us safely to West Malling for
@@ -42,6 +56,12 @@ commented sarcastically how utterly professional we all looked and
 continued his bizarre form of personalised yoga he uses to keep the
 knee-demons at bay. 28 miles to go.
 
+<figure>
+<a href="/images/ap/standard/1465bfc58f34b0b5_4.jpg">
+<img src="/images/ap/standard/1465bfc58f34b0b5_4.jpg">
+</a>
+</figure>
+
 The ride into Whitstable was excellent - the Garmin,
 characteristically useless as ever, was held in check by Jacko - who I
 think entirely for reasons of hilarity, had utterly lost his voice and
@@ -51,18 +71,9 @@ at the top and tucking into a plate of delicious oysters - a very
 welcome reward after a long ride. There was just enough time for Jacko
 to remark that the uninterrupted horizon provides little support to
 the middle-distance-starer before we headed for the train home.
+
 <figure class="third">
-<a href="/images/ap/standard/1465bfc58f34b0b5_0.jpg">
-<img src="/images/ap/standard/1465bfc58f34b0b5_0.jpg">
-</a><a href="/images/ap/standard/1465bfc58f34b0b5_1.jpg">
-<img src="/images/ap/standard/1465bfc58f34b0b5_1.jpg">
-</a><a href="/images/ap/standard/1465bfc58f34b0b5_2.jpg">
-<img src="/images/ap/standard/1465bfc58f34b0b5_2.jpg">
-</a><a href="/images/ap/standard/1465bfc58f34b0b5_3.jpg">
-<img src="/images/ap/standard/1465bfc58f34b0b5_3.jpg">
-</a><a href="/images/ap/standard/1465bfc58f34b0b5_4.jpg">
-<img src="/images/ap/standard/1465bfc58f34b0b5_4.jpg">
-</a><a href="/images/ap/standard/1465bfc58f34b0b5_5.jpg">
+<a href="/images/ap/standard/1465bfc58f34b0b5_5.jpg">
 <img src="/images/ap/standard/1465bfc58f34b0b5_5.jpg">
 </a><a href="/images/ap/standard/1465bfc58f34b0b5_6.jpg">
 <img src="/images/ap/standard/1465bfc58f34b0b5_6.jpg">
