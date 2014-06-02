@@ -30,8 +30,10 @@ So all's well that ends well...
 
 Well, almost. At the traffic lights in Stratford a plastic carrier bag got caught in my chain, it jammed, and the rear derailleur sheared off my bike. Maybe this was the one we didn't want to do!
 
-
 <figure>
 <a href="/images/ap/standard/145f76aac3d3a796_1.jpg">
 <img src="/images/ap/standard/145f76aac3d3a796_1.jpg">
 </a></figure>
+
+###The route
+<iframe width='460' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/5870197'></iframe>
