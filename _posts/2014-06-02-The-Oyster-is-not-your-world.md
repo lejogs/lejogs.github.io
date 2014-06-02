@@ -55,7 +55,7 @@ regaled us with
 
 >tales of a mighty hill
 
-that lay in our path 10 milesthence.
+that lay in our path 10 miles thence.
 
 10 miles later and with no hill in sight I think I may have mocked his
 warning. 13 miles later and having being utterly Ahabed by a giant
