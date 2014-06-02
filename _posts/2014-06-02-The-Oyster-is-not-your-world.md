@@ -95,3 +95,9 @@ the middle-distance-starer before we headed for the train home.
 </a><a href="/images/ap/standard/1465bfc58f34b0b5_7.jpg">
 <img src="/images/ap/standard/1465bfc58f34b0b5_7.jpg">
 </a></figure>
+
+###Running totals
+<i class="icon-road"></i>**Miles:** 719<br>
+<i class="icon-wrench"></i>**Punctures:** 6<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
+
