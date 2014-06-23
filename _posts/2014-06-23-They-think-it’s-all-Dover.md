@@ -52,4 +52,11 @@ A final climb into the hills outside Dover gave us our first sight of the sea th
 
 Arriving in Dover we had covered the 89 miles in 5 and a half hours. Not bad going after the disappointment of the night before.
 
+###Running totals
+<i class="icon-road"></i>**Miles:** 808<br>
+<i class="icon-wrench"></i>**Punctures:** 6<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
 
+###The route
+
+<iframe width='600' height='600' frameborder='0' src='http://connect.garmin.com:80/course/embed/6927528'></iframe>
