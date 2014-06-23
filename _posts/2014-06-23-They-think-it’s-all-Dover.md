@@ -11,27 +11,6 @@ image:
      square: ap/square/146ca74347f00ea0_0.jpg
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 As I write this blog (over a week late) England are out of the World Cup. In hindsight it was probably inevitable but on the morning of Sunday 15th there was still a feeling of optimism over team LEJOG about our chances after a late night watching the loss to Italy. And anyway ... we had some cycling to do.
 
 The previous week’s route out of London had impressed us so much that we headed off in a similar direction. London Bridge to Greenwich and up through Greenwich Park, before bearing east through Chislehurst and past Orpington. Definitely the “greenest” way of leaving London to the south.
@@ -46,17 +25,25 @@ Back on the road Chris and I suggested to Rich that as London to Dover hadn’t 
 
 Another bunch of miles past uneventfully apart from the fact I got to tryout my awesome new "Yorkshire" cycling cap - a present from a guy at work. Top bloke.
 
+<figure class="half">
+<a href="/images/ap/standard/146ca74347f00ea0_3.jpg">
+<img src="/images/ap/standard/146ca74347f00ea0_3.jpg">
+</a>
+</a><a href="/images/ap/standard/146ca74347f00ea0_4.jpg">
+<img src="/images/ap/standard/146ca74347f00ea0_4.jpg">
+</a>
+</figure>
+
 A final climb into the hills outside Dover gave us our first sight of the sea then it was downhill pretty much all the way with a fantastic view of the radio aerials from the World War II radar installations on the cliffs in the distance. 
 
-Arriving in Dover we had covered the 89 miles in 5 and a half hours. Not bad going after the disappointment of the night before.<figure class="third">
+Arriving in Dover we had covered the 89 miles in 5 and a half hours. Not bad going after the disappointment of the night before.
+
+<figure class="third">
 <a href="/images/ap/standard/146ca74347f00ea0_0.jpg">
 <img src="/images/ap/standard/146ca74347f00ea0_0.jpg">
 </a><a href="/images/ap/standard/146ca74347f00ea0_1.jpg">
 <img src="/images/ap/standard/146ca74347f00ea0_1.jpg">
 </a><a href="/images/ap/standard/146ca74347f00ea0_2.jpg">
 <img src="/images/ap/standard/146ca74347f00ea0_2.jpg">
-</a><a href="/images/ap/standard/146ca74347f00ea0_3.jpg">
-<img src="/images/ap/standard/146ca74347f00ea0_3.jpg">
-</a><a href="/images/ap/standard/146ca74347f00ea0_4.jpg">
-<img src="/images/ap/standard/146ca74347f00ea0_4.jpg">
-</a></figure>
+</a>
+</figure>
