@@ -11,7 +11,9 @@ image:
      square: ap/square/146ca74347f00ea0_0.jpg
 ---
 
-As I write this blog (over a week late) England are out of the World Cup. In hindsight it was probably inevitable but on the morning of Sunday 15th there was still a feeling of optimism over team LEJOG about our chances after a late night watching the loss to Italy. And anyway ... we had some cycling to do.
+As I write this blog (over a week late) England are out of the World Cup. In hindsight it was probably inevitable but on the morning of Sunday 15th there was still a feeling of optimism over team LEJOG about our chances after a late night watching the loss to Italy. 
+
+> *And anyway ... we had some cycling to do.*
 
 The previous week’s route out of London had impressed us so much that we headed off in a similar direction. London Bridge to Greenwich and up through Greenwich Park, before bearing east through Chislehurst and past Orpington. Definitely the “greenest” way of leaving London to the south.
 
