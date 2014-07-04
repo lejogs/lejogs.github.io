@@ -46,10 +46,11 @@ with a less impressive lookout viewpoint, but I think I enjoyed it more. Some
 of our routes were not ideal road-wise because of the gravel and potholes, but
 we got up all of them without too much moaning.
 
-  		 	   		  <figure class="">
+<figure>
 <a href="/images/ap/standard/14700d7351033d78_1.jpg">
 <img src="/images/ap/standard/14700d7351033d78_1.jpg">
-</a></figure>
+</a>
+</figure>
 
 What I took from this ride was that we're actually
 getting quite cycling-fit, although you probably wouldn't think it to look at
