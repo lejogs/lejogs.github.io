@@ -16,16 +16,16 @@ image:
 After last weekend without a major ride (although a
 lovely trip out to Beckenham to see James and Nic's new house and share a BBQ
 with lots of good company), Jacko and I returned to the saddle.
->*Rich was busy
-and Henry was still a few thousand miles away*
+
+>Rich was busy and Henry was still a few thousand miles away
+
 We decided on a shorter
 ride in the Surrey hills, this time choosing Leith Hill as a base to navigate
 around.  A quick web search found us a Leith Hill Octopus route that we could
 use, with five climbs up the hill via a few different routes.  The plan was 3600ft over 41 miles, starting
 from Dorking
->*a good thigh burning exercise!*
 
- 
+> a good thigh burning exercise!
 
 It was on the train to Dorking that I realised I'm in the
 wrong group for this ride.  As another couple of chaps got off the train in
@@ -39,7 +39,9 @@ the hills. To be fair, just like I did for Box Hill, I'd built Leith Hill up
 into some kind of Ventoux-like monster, which it really isn't.  While I won't
 be-little anyone by saying that it's easy, it's not the beast that I thought it
 might be:
->*we have Brassknocker in Bath as a benchmark now...*
+
+>we have Brassknocker in Bath as a benchmark now...
+
 The climb
 isn't quite as friendly as Box Hill, mostly surrounded by a tunnel of trees and
 with a less impressive lookout viewpoint, but I think I enjoyed it more. Some
