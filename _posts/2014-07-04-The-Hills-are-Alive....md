@@ -46,7 +46,10 @@ with a less impressive lookout viewpoint, but I think I enjoyed it more. Some
 of our routes were not ideal road-wise because of the gravel and potholes, but
 we got up all of them without too much moaning.
 
- 
+  		 	   		  <figure class="">
+<a href="/images/ap/standard/14700d7351033d78_1.jpg">
+<img src="/images/ap/standard/14700d7351033d78_1.jpg">
+</a></figure>
 
 What I took from this ride was that we're actually
 getting quite cycling-fit, although you probably wouldn't think it to look at
@@ -70,9 +73,4 @@ week), I was absolutely drained after the 10 miles in from Victoria to home.
 So, 41 miles and another weekend closer to the trip -
 with a chance to take inspiration from the tour riders in London over the next
 week or so.
- 		 	   		  <figure class="half">
-<a href="/images/ap/standard/14700d7351033d78_0.jpg">
-<img src="/images/ap/standard/14700d7351033d78_0.jpg">
-</a><a href="/images/ap/standard/14700d7351033d78_1.jpg">
-<img src="/images/ap/standard/14700d7351033d78_1.jpg">
-</a></figure>
+
