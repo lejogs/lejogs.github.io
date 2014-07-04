@@ -32,8 +32,6 @@ wrong group for this ride.  As another couple of chaps got off the train in
 front of us, saying, "straight in, or a nice cup of tea first?", I
 realised where I should be, and slightly cursed militant Jacko under my breath.
 
- 
-
 Anyway, a short ride through Dorking and we arrived at
 the hills. To be fair, just like I did for Box Hill, I'd built Leith Hill up
 into some kind of Ventoux-like monster, which it really isn't.  While I won't
