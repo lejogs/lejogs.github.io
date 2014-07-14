@@ -42,6 +42,13 @@ the lead. A Nisa - purveyor of sausage rolls marked the change over from
 Jacko to Chris, who also decided to peg our speed at 20 miles per hour and
 was stopped only, and briefly by a ford.
 
+<figure class="half">
+<a href="/images/ap/standard/14734f77cc8912cc_1.jpg">
+<img src="/images/ap/standard/14734f77cc8912cc_1.jpg">
+</a><a href="/images/ap/standard/14734f77cc8912cc_2.jpg">
+<img src="/images/ap/standard/14734f77cc8912cc_2.jpg">
+</a></figure>
+
 34 miles marked the final change-over point and lunchtime. A bizarre
 'Antiques Village' called Battlesbridge - provided the backdrop for much
 needed dissection of the minutiae of the day. Chris and Jacko
@@ -68,13 +75,7 @@ point out an hour later as we passed it on our way home.
 Having calibrated my legs to endure exactly 50 miles, this extra detour was
 difficult - but mercifully short. We were soon on our way back to London,
 via the tropical idyll of Billericay.
-<figure class="third">
-<a href="/images/ap/standard/14734f77cc8912cc_0.jpg">
-<img src="/images/ap/standard/14734f77cc8912cc_0.jpg">
-</a><a href="/images/ap/standard/14734f77cc8912cc_1.jpg">
-<img src="/images/ap/standard/14734f77cc8912cc_1.jpg">
-</a><a href="/images/ap/standard/14734f77cc8912cc_2.jpg">
-<img src="/images/ap/standard/14734f77cc8912cc_2.jpg">
-</a><a href="/images/ap/standard/14734f77cc8912cc_3.jpg">
+<figure>
+<a href="/images/ap/standard/14734f77cc8912cc_3.jpg">
 <img src="/images/ap/standard/14734f77cc8912cc_3.jpg">
 </a></figure>
