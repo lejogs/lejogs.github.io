@@ -79,3 +79,8 @@ via the tropical idyll of Billericay.
 <a href="/images/ap/standard/14734f77cc8912cc_3.jpg">
 <img src="/images/ap/standard/14734f77cc8912cc_3.jpg">
 </a></figure>
+
+###Running totals
+<i class="icon-road"></i>**Miles:** 860<br>
+<i class="icon-wrench"></i>**Punctures:** 6<br>
+<i class="icon-time"></i>**Times Chris has been late:** 2 (63 minutes)<br>
