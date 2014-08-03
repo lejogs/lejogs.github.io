@@ -12,7 +12,7 @@ There’s a nagging feeling when the full UK trio can’t make it on a training 
 
 Thankfully as Chris was at the cricket Jacko and I managed to shake that feeling relatively quickly.
 
-The plan was Richmond park, which is the plan equivalent of not having a plan: let’s just go round and round and round until we stop and then go home. Having prepared the day before by spending all day at a beer festival I was not in the greatest of shape. With air of numbing inevitability, Jacko turned up outside my door and the cycling began to happen.
+The plan was Richmond park, which is the plan equivalent of not having a plan: let’s just go round and round and round until we stop and then go home. Having prepared the day before by spending all day at a beer festival I was not in the greatest of shape. With an air of numbing inevitability, Jacko turned up outside my door and the cycling began to happen.
 
 The ride out to Richmond park is a simple affair and you soon cross the gates into some bizarre cycle-topia: lycra glinting in the early morning sun, lighter than air bikes whirring with engineered precision as they convey heavier than air blokes wheezing with athletic delusion. A confused mass of cyclists was gathered in a disordered clump and appeared to be milling around utterly aimlessly.
 
