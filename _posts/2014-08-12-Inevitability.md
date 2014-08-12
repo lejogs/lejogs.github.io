@@ -38,18 +38,10 @@ countryside too.  Maybe I'm becoming a bit blase now that we've done this amount
 </figure>
 
 <figure>
-<a href="/images/ap/standard/147cab93c9ec5b24_1.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_1.jpg">
+<a href="/images/ap/standard/147cab93c9ec5b24_4.jpg">
+<img src="/images/ap/standard/147cab93c9ec5b24_4.jpg">
 </a>
 </figure>
-
-<figure>
-<a href="/images/ap/standard/147cab93c9ec5b24_2.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_2.jpg">
-</a>
-</figure>
-
-The end of the ride was greeted with a well earned food and beer stop at the Battersea Power Station version of Street Feast.  An incredible back-drop to some decent grub on a lovely evening (another incredible building - three in one day!).
 
 <figure>
 <a href="/images/ap/standard/147cab93c9ec5b24_3.jpg">
@@ -57,11 +49,19 @@ The end of the ride was greeted with a well earned food and beer stop at the Bat
 </a>
 </figure>
 
+The end of the ride was greeted with a well earned food and beer stop at the Battersea Power Station version of Street Feast.  An incredible back-drop to some decent grub on a lovely evening (another incredible building - three in one day!).
+
+<figure>
+<a href="/images/ap/standard/147cab93c9ec5b24_2.jpg">
+<img src="/images/ap/standard/147cab93c9ec5b24_2.jpg">
+</a>
+</figure>
+
 A summary of the planning; I ended up getting lots of boxes of miscellaneous food and cycling equipment delivered to my house, so it seems that we did manage to sort some things, although possibly not the right things.
 
 <figure>
-<a href="/images/ap/standard/147cab93c9ec5b24_4.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_4.jpg">
+<a href="/images/ap/standard/147cab93c9ec5b24_1.jpg">
+<img src="/images/ap/standard/147cab93c9ec5b24_1.jpg">
 </a>
 </figure>
 
