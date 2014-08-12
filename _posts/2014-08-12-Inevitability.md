@@ -80,6 +80,7 @@ London, and highlighted the skill and management talents that Rich and
 I to be able to hold onto our relationships.
 
 > I think we're ready
+
 <figure class="third">
 <a href="/images/ap/standard/147cab93c9ec5b24_0.jpg">
 <img src="/images/ap/standard/147cab93c9ec5b24_0.jpg">
