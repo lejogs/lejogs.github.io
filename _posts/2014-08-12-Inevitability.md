@@ -75,16 +75,3 @@ flexibility that will help to get us through the ride, so that routine has start
 This was the last of our rides together before the start of our epic journey.  It marked the end of a good tour of the South East of England that demonstrated a steady improvement in fitness and ability from all sides, built a sound knowledge of train lines in and out of London, and highlighted the skill and management talents that Rich and I to be able to hold onto our relationships.
 
 > I think we're ready
-
-<figure class="third">
-<a href="/images/ap/standard/147cab93c9ec5b24_0.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_0.jpg">
-</a><a href="/images/ap/standard/147cab93c9ec5b24_1.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_1.jpg">
-</a><a href="/images/ap/standard/147cab93c9ec5b24_2.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_2.jpg">
-</a><a href="/images/ap/standard/147cab93c9ec5b24_3.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_3.jpg">
-</a><a href="/images/ap/standard/147cab93c9ec5b24_4.jpg">
-<img src="/images/ap/standard/147cab93c9ec5b24_4.jpg">
-</a></figure>
