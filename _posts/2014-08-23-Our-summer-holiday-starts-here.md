@@ -28,7 +28,7 @@ platform rectified the situation. Not the most promising of starts.
 
 Land’s End was deserted. This was excellent because it looked like it
 wouldn’t take long for it to take on a “theme park” feel. We took our
-pictures at the famous sign, filled our water bottles and, at some
+pictures at the famous sign, signed the guest book, filled our water bottles and, at some
 time around 9:20am we were off.
 
 <figure class="">
