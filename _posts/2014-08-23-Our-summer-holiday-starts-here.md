@@ -41,34 +41,27 @@ time around 9:20am we were off.
 It was a glorious day to start our trip. Words can’t really do it
 justice so take a look at these pictures…
 
-<figure class="">
+<figure class="third">
 <a href="/images/ap/standard/148047228c2878b0_1.jpg">
 <img src="/images/ap/standard/148047228c2878b0_1.jpg">
-</a></figure>
-<figure class="">
+</a>
 <a href="/images/ap/standard/148047228c2878b0_2.jpg">
 <img src="/images/ap/standard/148047228c2878b0_2.jpg">
-</a></figure>
-<figure class="">
+</a>
 <a href="/images/ap/standard/148047228c2878b0_3.jpg">
 <img src="/images/ap/standard/148047228c2878b0_3.jpg">
 </a></figure>
-<figure class="">
+<figure class="third">
 <a href="/images/ap/standard/148047228c2878b0_4.jpg">
 <img src="/images/ap/standard/148047228c2878b0_4.jpg">
-</a></figure>
-<figure class="">
+</a>
 <a href="/images/ap/standard/148047228c2878b0_5.jpg">
 <img src="/images/ap/standard/148047228c2878b0_5.jpg">
-</a></figure>
-<figure class="">
+</a>
 <a href="/images/ap/standard/148047228c2878b0_6.jpg">
 <img src="/images/ap/standard/148047228c2878b0_6.jpg">
 </a></figure>
-<figure class="">
-<a href="/images/ap/standard/148047228c2878b0_7.jpg">
-<img src="/images/ap/standard/148047228c2878b0_7.jpg">
-</a></figure>
+
 
 Our support crew (Rich’s parents) have set an incredibly high standard
 for both crew work and hospitality. Brews on the platform, lunch at a
