@@ -2,7 +2,7 @@
 layout: post
 category: posts
 tagline: Our summer holiday starts here
-tags: rich post pics
+tags: jacko post pics
 comments: true
 share: true
 image: 
