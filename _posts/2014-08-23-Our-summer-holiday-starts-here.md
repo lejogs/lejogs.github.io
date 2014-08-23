@@ -25,15 +25,50 @@ the train hadn’t yet left for London so a quick jog back to the
 platform rectified the situation. Not the most promising of starts.
 
 
+
 Land’s End was deserted. This was excellent because it looked like it
 wouldn’t take long for it to take on a “theme park” feel. We took our
 pictures at the famous sign, filled our water bottles and, at some
 time around 9:20am we were off.
 
+<figure class="">
+<a href="/images/ap/standard/14804716f734dfbb_0.jpg">
+<img src="/images/ap/standard/14804716f734dfbb_0.jpg">
+</a></figure>
+
+
 
 It was a glorious day to start our trip. Words can’t really do it
 justice so take a look at these pictures…
 
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_1.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_1.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_2.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_2.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_3.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_3.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_4.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_4.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_5.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_5.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_6.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_6.jpg">
+</a></figure>
+<figure class="">
+<a href="/images/ap/standard/ap/148047228c2878b0_7.jpg">
+<img src="/images/ap/standard/ap/148047228c2878b0_7.jpg">
+</a></figure>
 
 Our support crew (Rich’s parents) have set an incredibly high standard
 for both crew work and hospitality. Brews on the platform, lunch at a
@@ -49,7 +84,3 @@ think that it’s part of the yearly regatta…
 
 Tomorrow we head across Dartmoor. Today we learnt that Cornwall is
 beautiful and very hilly.
-<figure class="">
-<a href="/images/ap/standard/148046ff4ac4c159_0.jpg">
-<img src="/images/ap/standard/148046ff4ac4c159_0.jpg">
-</a></figure>
