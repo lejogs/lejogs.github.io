@@ -2,7 +2,7 @@
 layout: post
 category: posts
 tagline: Wet Wet Wet
-tags: rich post pics
+tags: chris post pics
 comments: true
 share: true
 image: 
