@@ -28,28 +28,7 @@ The A57 round Manchester prefaced and a steady climb into the Lancashire country
 
 An evening of tasty food and red wine provided a great end to a solid day in preparation for what was to follow...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sent from my iPhone<figure class="third">
+<figure class="third">
 <a href="/images/ap/standard/1481e6e0a8309bf9_0.jpg">
 <img src="/images/ap/standard/1481e6e0a8309bf9_0.jpg">
 </a><a href="/images/ap/standard/1481e6e0a8309bf9_1.jpg">
