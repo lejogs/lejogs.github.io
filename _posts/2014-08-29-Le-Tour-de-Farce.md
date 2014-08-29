@@ -14,6 +14,11 @@ For those that like a story to have a happy ending - this one does:
 
 > Richmond welcomed us with open arms.
 
+<figure>
+<a href="/images/ap/standard/1482135f49268874_0.jpg">
+<img src="/images/ap/standard/1482135f49268874_0.jpg">
+</a></figure>
+
 I certainly wont forget seeing
 our names written in chalk on the road outside Jacko's parent's house,
 a bountiful, delicious barbecue, the many friends and family that
@@ -88,7 +93,15 @@ immediately, my knee excelled itself in producing a new kind of pain.
 The hill continued.
 
 As a slightly bizarre counterpoint, the road is still painted with the
-markings from the Grand Depart. I tried to imagine my name was Cav, or
+markings from the Grand Depart. 
+
+<figure>
+<a href="/images/ap/standard/1482135f49268874_9.jpg">
+<img src="/images/ap/standard/1482135f49268874_9.jpg">
+</a>
+</figure>
+
+I tried to imagine my name was Cav, or
 Froome or Sky or Allez, they all seemed popular chaps and the road
 willed them all on - at one point the road declared "Better to have
 ridden and lost in Yorkshire than never to have ridden in Yorkshire at
@@ -97,9 +110,33 @@ all" - as our visitors might have said - au contraire.
 Somehow, after a cattle grid, the hill ended, photos were taken, an
 agreement was reached that something of merit had been achieved and we
 moved on.
+
+<figure class = "third">
+<a href="/images/ap/standard/1482135f49268874_3.jpg">
+<img src="/images/ap/standard/1482135f49268874_3.jpg">
+</a><a href="/images/ap/standard/1482135f49268874_4.jpg">
+<img src="/images/ap/standard/1482135f49268874_4.jpg">
+</a><a href="/images/ap/standard/1482135f49268874_5.jpg">
+<img src="/images/ap/standard/1482135f49268874_5.jpg">
+</a>
+</figure>
+
 Seeing that the descent was 25% Henry celebrated in his people's
-customary way with a puncture. We rebuilt the tyre and readied
+customary way with a puncture.
+
+<figure>
+<a href="/images/ap/standard/1482135f49268874_2.jpg">
+<img src="/images/ap/standard/1482135f49268874_2.jpg">
+</a>
+</figure>
+
+We rebuilt the tyre and readied
 ourselves for the next assault. Senses of humour wavered.
+
+<figure>
+<a href="/images/ap/standard/1482135f49268874_7.jpg">
+<img src="/images/ap/standard/1482135f49268874_7.jpg">
+</a></figure>
 
 **Hill 5: Fremington**
 We saw a sign marked 'Richmond 21'. We turned off that road up a sharp
@@ -128,28 +165,23 @@ patiently for the peloton to pass - it was handy to have someone that
 actually knew the bends in the road on the way down rather than
 playing chicken with approaching cars.
 
+<figure>
+<a href="/images/ap/standard/1482135f49268874_1.jpg">
+<img src="/images/ap/standard/1482135f49268874_1.jpg">
+</a>
+<figure>
+
 It was a short downhill on to Richmond and with that we had arrived to
 a very warm welcome - Hannah leading the peloton in, to a cheering
 crowd, bunting flapping in the wind and our names chalked in the road.
-<figure class="third">
-<a href="/images/ap/standard/1482135f49268874_0.jpg">
-<img src="/images/ap/standard/1482135f49268874_0.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_1.jpg">
-<img src="/images/ap/standard/1482135f49268874_1.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_2.jpg">
-<img src="/images/ap/standard/1482135f49268874_2.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_3.jpg">
-<img src="/images/ap/standard/1482135f49268874_3.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_4.jpg">
-<img src="/images/ap/standard/1482135f49268874_4.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_5.jpg">
-<img src="/images/ap/standard/1482135f49268874_5.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_6.jpg">
+
+> 'But look at the view'
+
+<figure class="half">
+<a href="/images/ap/standard/1482135f49268874_6.jpg">
 <img src="/images/ap/standard/1482135f49268874_6.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_7.jpg">
-<img src="/images/ap/standard/1482135f49268874_7.jpg">
 </a><a href="/images/ap/standard/1482135f49268874_8.jpg">
 <img src="/images/ap/standard/1482135f49268874_8.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_9.jpg">
-<img src="/images/ap/standard/1482135f49268874_9.jpg">
 </a></figure>
+
+We all love you really Jacko. Even my knee
