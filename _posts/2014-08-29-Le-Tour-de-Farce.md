@@ -58,6 +58,11 @@ I hope a similar protective amnesia will soon rob me of the rest of
 the ordeal. Henry tells me that there was heather, that it was purple
 and quite nice.
 
+<figure>
+<a href="/images/ap/standard/1482135f49268874_9.jpg">
+<img src="/images/ap/standard/1482135f49268874_9.jpg">
+</a></figure>
+
 **Hill 3: Col de Cray**
 Adam, Amy and their daughter Hannah (also Jacko's god-daughter) formed
 our support team in the morning; it was fantastic to have their
