@@ -11,7 +11,10 @@ image:
      square: ap/square/1482135f49268874_0.jpg
 ---
 For those that like a story to have a happy ending - this one does:
-Richmond welcomed us with open arms. I certainly wont forget seeing
+
+> Richmond welcomed us with open arms.
+
+I certainly wont forget seeing
 our names written in chalk on the road outside Jacko's parent's house,
 a bountiful, delicious barbecue, the many friends and family that
 stopped by to cheer us on or the whole keg of real ale we had waiting
