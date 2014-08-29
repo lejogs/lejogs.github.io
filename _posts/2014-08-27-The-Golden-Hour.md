@@ -27,16 +27,20 @@ Of course this is a Hollywood-like, idealised depiction of long distance cycling
 
 Breakfast over we experienced 'The Platinum Hour' where more rolling countryside, an August sun, and the power of the legs of Rich's dad drove the peloton forward at ever greater speeds.
 
+<figure class="half">
+<a href="/images/ap/standard/1481e6e0a8309bf9_2.jpg">
+<img src="/images/ap/standard/1481e6e0a8309bf9_2.jpg">
+</a><a href="/images/ap/standard/1481e6e0a8309bf9_3.jpg">
+<img src="/images/ap/standard/1481e6e0a8309bf9_3.jpg">
+</a></figure>
+
 Lunch was provided in Warburton by our brilliant support crew before we entered the final stages of the day. 
 
 The A57 round Manchester prefaced and a steady climb into the Lancashire countryside and our night's accommodation at a farm just outside Rossendale. 
 
 An evening of tasty food and red wine provided a great end to a solid day in preparation for what was to follow on Day 6...
-<figure class="third">
-<a href="/images/ap/standard/1481e6e0a8309bf9_2.jpg">
-<img src="/images/ap/standard/1481e6e0a8309bf9_2.jpg">
-</a><a href="/images/ap/standard/1481e6e0a8309bf9_3.jpg">
-<img src="/images/ap/standard/1481e6e0a8309bf9_3.jpg">
-</a><a href="/images/ap/standard/1481e6e0a8309bf9_4.jpg">
+
+<figure>
+<a href="/images/ap/standard/1481e6e0a8309bf9_4.jpg">
 <img src="/images/ap/standard/1481e6e0a8309bf9_4.jpg">
 </a></figure>
