@@ -174,13 +174,13 @@ playing chicken with approaching cars.
 <a href="/images/ap/standard/1482135f49268874_1.jpg">
 <img src="/images/ap/standard/1482135f49268874_1.jpg">
 </a>
-<figure>
+</figure>
 
 It was a short downhill on to Richmond and with that we had arrived to
 a very warm welcome - Hannah leading the peloton in, to a cheering
 crowd, bunting flapping in the wind and our names chalked in the road.
 
-> But look at the view
+> 'But look at the view'
 
 <figure>
 <a href="/images/ap/standard/1482135f49268874_7.jpg">
