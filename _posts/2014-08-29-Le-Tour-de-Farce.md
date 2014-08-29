@@ -182,11 +182,9 @@ crowd, bunting flapping in the wind and our names chalked in the road.
 
 > But look at the view
 
-<figure class="half">
+<figure>
 <a href="/images/ap/standard/1482135f49268874_7.jpg">
 <img src="/images/ap/standard/1482135f49268874_7.jpg">
-</a><a href="/images/ap/standard/1482135f49268874_8.jpg">
-<img src="/images/ap/standard/1482135f49268874_8.jpg">
 </a></figure>
 
 We all love you really Jacko. Even my knee
