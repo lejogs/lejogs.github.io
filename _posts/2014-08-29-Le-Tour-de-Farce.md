@@ -96,8 +96,8 @@ As a slightly bizarre counterpoint, the road is still painted with the
 markings from the Grand Depart. 
 
 <figure>
-<a href="/images/ap/standard/1482135f49268874_9.jpg">
-<img src="/images/ap/standard/1482135f49268874_9.jpg">
+<a href="/images/ap/standard/1482135f49268874_8.jpg">
+<img src="/images/ap/standard/1482135f49268874_8.jpg">
 </a>
 </figure>
 
@@ -134,8 +134,8 @@ We rebuilt the tyre and readied
 ourselves for the next assault. Senses of humour wavered.
 
 <figure>
-<a href="/images/ap/standard/1482135f49268874_7.jpg">
-<img src="/images/ap/standard/1482135f49268874_7.jpg">
+<a href="/images/ap/standard/1482135f49268874_6.jpg">
+<img src="/images/ap/standard/1482135f49268874_6.jpg">
 </a></figure>
 
 **Hill 5: Fremington**
@@ -178,8 +178,8 @@ crowd, bunting flapping in the wind and our names chalked in the road.
 > 'But look at the view'
 
 <figure class="half">
-<a href="/images/ap/standard/1482135f49268874_6.jpg">
-<img src="/images/ap/standard/1482135f49268874_6.jpg">
+<a href="/images/ap/standard/1482135f49268874_7.jpg">
+<img src="/images/ap/standard/1482135f49268874_7.jpg">
 </a><a href="/images/ap/standard/1482135f49268874_8.jpg">
 <img src="/images/ap/standard/1482135f49268874_8.jpg">
 </a></figure>
