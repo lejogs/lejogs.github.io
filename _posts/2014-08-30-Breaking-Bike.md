@@ -2,9 +2,13 @@
 layout: post
 category: posts
 tagline: Breaking Bike
-tags: rich post
+tags: chris post pics
 comments: true
 share: true
+image: 
+     feature: ap/14828d98afdfe612_0.jpg
+     thumb: ap/14828d98afdfe612_0.jpg
+     square: ap/14828d98afdfe612_0.jpg
 ---
 Not many groups doing LEJOG cross the Pennines twice. We did. Via the
 Yorkshire Dales. Even with the rest day thrown in, these two days of riding
