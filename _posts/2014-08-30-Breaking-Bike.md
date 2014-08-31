@@ -22,6 +22,8 @@ seen near a foam roller or massage bed before, yelping in pain as Louise's
 hands worked their way over his thighs with, quote, "hardly any pressure".
 Man up Jacko, man up.
 
+
+
 A fantastic feed was delivered by Jan to set us up for today's ride. So on
 to the ride...
 
@@ -39,7 +41,19 @@ little reward, we finally saw our first real mechanical casualty of the
 tour (punctures and pedals aside) as Jacko's rear derailleur snapped clean
 off his bike at a particularly innocuous moment, leaving him pretty much
 "up sh*t creek" (more justice? We couldn't laugh at this one - this is a
-day ending failure on a newly serviced bike...). Where to go from here?
+day ending failure on a newly serviced bike...).
+
+<figure class="half">
+<a href="/images/ap/standard/1482dc97c78a4b4c_4.jpg">
+<img src="/images/ap/standard/1482dc97c78a4b4c_4.jpg">
+</a>
+<a href="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
+<img src="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
+</a>
+</figure>
+
+
+Where to go from here?
 Well, our support crew have been incredible to date, but this was to become
 a new benchmark. Cue Jan and Jim. I know they are teachers, I know teachers
 are organised, I know it was slightly lucky that they were parked up just
@@ -60,10 +74,17 @@ broken, pleased that I helped to drag Jacko to Annan on a bike that can
 only have been hurting him with every pedal stroke, pleased that the team
 got him through. We did cross the border, which was worth a photo. 
 
-<figure class="">
+<figure class="half">
 <a href="/images/ap/standard/1482ac5cfc11da20_0.jpg">
 <img src="/images/ap/standard/1482ac5cfc11da20_0.jpg">
-</a></figure>
+</a>
+<a href="/images/ap/standard/1482dc97c78a4b4c_2.jpg">
+<img src="/images/ap/standard/1482dc97c78a4b4c_2.jpg">
+</a>
+</figure>
+
+
+
 
 I have
 a beer in front of me. I am with the team. This was a brutal day, but the
