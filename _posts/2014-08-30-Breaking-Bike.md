@@ -22,7 +22,10 @@ seen near a foam roller or massage bed before, yelping in pain as Louise's
 hands worked their way over his thighs with, quote, "hardly any pressure".
 Man up Jacko, man up.
 
-
+<figure>
+<a href="/images/ap/standard/1482dfc145aaa587_1.jpg">
+<img src="/images/ap/standard/1482dfc145aaa587_1.jpg">
+</a></figure>
 
 A fantastic feed was delivered by Jan to set us up for today's ride. So on
 to the ride...
@@ -63,6 +66,9 @@ mobile home - with a very welcome spread served up by Jan.
 <a href="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
 <img src="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
 </a>
+<a href="/images/ap/standard/1482dfc145aaa587_0.jpg">
+<img src="/images/ap/standard/1482dfc145aaa587_0.jpg">
+</a>
 </figure>
 
 We went on our merry (hah!) way, into the wind, protecting Jacko with a twosome riding at
@@ -84,9 +90,6 @@ got him through. We did cross the border, which was worth a photo.
 <img src="/images/ap/standard/1482dc97c78a4b4c_2.jpg">
 </a>
 </figure>
-
-
-
 
 I have
 a beer in front of me. I am with the team. This was a brutal day, but the
