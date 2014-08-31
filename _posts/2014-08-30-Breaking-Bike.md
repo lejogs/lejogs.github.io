@@ -43,15 +43,10 @@ off his bike at a particularly innocuous moment, leaving him pretty much
 "up sh*t creek" (more justice? We couldn't laugh at this one - this is a
 day ending failure on a newly serviced bike...).
 
-<figure class="half">
+<figure>
 <a href="/images/ap/standard/1482dc97c78a4b4c_4.jpg">
 <img src="/images/ap/standard/1482dc97c78a4b4c_4.jpg">
-</a>
-<a href="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
-<img src="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
-</a>
-</figure>
-
+</a></figure>
 
 Where to go from here?
 Well, our support crew have been incredible to date, but this was to become
@@ -62,8 +57,15 @@ speed and skill of organisation was phenomenal:  Jacko's old mountain bike
 was whipped off the back of the motor home, the pedals were swapped to make
 the afternoon marginally easier, the local bike shop in Richmond was
 contacted, an early lunch was taken in the comfort of the lounge of the
-mobile home - with a very welcome spread served up by Jan.  We went on our
-merry (hah!) way, into the wind, protecting Jacko with a twosome riding at
+mobile home - with a very welcome spread served up by Jan.  
+
+<figure class="half">
+<a href="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
+<img src="/images/ap/standard/1482dc97c78a4b4c_3.jpg">
+</a>
+</figure>
+
+We went on our merry (hah!) way, into the wind, protecting Jacko with a twosome riding at
 the front of the peloton. The Jacks made their way back to Richmond, to
 become Richmond for a workaround, Darlington for a part, back to Richmond
 for a full repair. Incredible. As I write this, the Jacks are en route to
