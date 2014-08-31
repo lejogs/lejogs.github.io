@@ -58,6 +58,13 @@ deliver a fully working bike back to Jacko for tomorrow's ride.
 Did anything else happen on the ride? No. It was a slog. I feel absolutely
 broken, pleased that I helped to drag Jacko to Annan on a bike that can
 only have been hurting him with every pedal stroke, pleased that the team
-got him through. We did cross the border, which was worth a photo.  I have
+got him through. We did cross the border, which was worth a photo. 
+
+<figure class="">
+<a href="/images/ap/standard/1482ac5cfc11da20_0.jpg">
+<img src="/images/ap/standard/1482ac5cfc11da20_0.jpg">
+</a></figure>
+
+I have
 a beer in front of me. I am with the team. This was a brutal day, but the
 first major test of the team. I think we passed.
