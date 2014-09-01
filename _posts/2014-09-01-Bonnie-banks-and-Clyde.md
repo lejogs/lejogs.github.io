@@ -2,7 +2,7 @@
 layout: post
 category: posts
 tagline: Bonnie banks and Clyde
-tags: rich post pics
+tags: jacko post pics
 comments: true
 share: true
 image: 
