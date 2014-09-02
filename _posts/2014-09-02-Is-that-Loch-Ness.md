@@ -10,7 +10,7 @@ image:
      thumb: ap/thumbs/148381554421d904_0.jpg
      square: ap/square/148381554421d904_0.jpg
 ---
-> Such a perfect day.
+> Such a perfect day*.
 
 Most days on the trip have seemed to have a ‘trial’ of some sort -
 rain, headwinds, a broken bike, added crossings of the Clyde or
@@ -96,7 +96,7 @@ delicious dinner with Chris’ parents (The Mustard Seed).
 
 
 
-<small>My apologies to the youngest member of our support team -  Hannah,
+<small>*My apologies to the youngest member of our support team -  Hannah,
 who I know hates Lou Reed.</small>
 
 <figure class="third">
