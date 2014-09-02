@@ -81,10 +81,12 @@ road to the Clachaig for food, drink and whisky…
 [Editor's note: the Internet connection is terrible so we will upload
 more photos to this post when we send tomorrow's blog. Don't forget to
 check back!]
-<figure class="">
+<figure>
 <a href="/images/ap/standard/1483336ede548d6a_0.jpg">
 <img src="/images/ap/standard/1483336ede548d6a_0.jpg">
 </a>
+</figure>
+<figure class = "third">
 <a href="/images/ap/standard/148381ef8e93a604_0.jpg">
 <img src="/images/ap/standard/148381ef8e93a604_0.jpg">
 </a>
