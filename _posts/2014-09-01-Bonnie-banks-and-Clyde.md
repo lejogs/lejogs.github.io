@@ -51,7 +51,7 @@ It’s worth an interlude at this point to discuss our support crews.
 Rich’s mum (and dad when he wasn’t cycling) set the standard very high
 and a mixture of Brian (my mate’s wife’s dad), my parents, and my
 uncle and aunty have kept up the fine tradition over the last few
-days. Chris’ dad was only meant to join us to take on the
+days. Chris’ folks were only meant to join us to take on the
 responsibility from tomorrow morning but arrived at lunch and
 immediately stepped up to the mark. A timely pre-order of steak
 sandwiches and chips allowed an F1 style pit stop then back on the
