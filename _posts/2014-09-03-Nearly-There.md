@@ -52,6 +52,7 @@ nutrition that we could take on board while flying downhill, and also the
 one thing that made us not stop riding - the midge.
 
 > Bring on tomorrow...
+
 <figure class="third">
 <a href="/images/ap/standard/1483da5a3e9f8994_0.jpg">
 <img src="/images/ap/standard/1483da5a3e9f8994_0.jpg">
