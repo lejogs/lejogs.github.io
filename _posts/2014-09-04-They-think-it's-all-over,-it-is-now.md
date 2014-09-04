@@ -13,7 +13,7 @@ image:
 > We reached the end
 
 While a full update on our last day will be forthcoming, we wanted to let
-you know that we made it to Land's End before we enjoy a few too many beers
+you know that we made it to John O'Groats before we enjoy a few too many beers
 and, undoubtedly, drams of whiskey. This also gives us some time to
 consider our achievement and that we won't be waking up to another day in
 the saddle! We have several hours on the train tomorrow as we begin to work
