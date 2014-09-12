@@ -119,7 +119,6 @@ more expected)!
 
 > What’s next for the team I hear you ask?
 
-
 Whatever it is, and there’s been no agreement as yet, it’s likely to be
 completed at a slightly more leisurely pace, such that we don’t all feel
 the need for a proper holiday afterwards!
