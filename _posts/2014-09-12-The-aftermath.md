@@ -62,7 +62,7 @@ crossing the line in Paris at last year’s Tour du France (we contemplated
 trying the arms in the air / shoulder to shoulder but the substantial
 difference in saddle and torso heights would likely have prevented us from
 reaching the line at all). And so it was that we came to a stop by the
-famed signpost, 1008 miles and X feet climbed from where we started, the
+famed signpost, 1008 miles and 60,474 feet climbed from where we started, the
 champagne started flowing and the cameras clicking. The arrival of Mr & Mrs
 Walters brought a further round of hearty congratulations and champagne.
 Despite the jubilation, we managed to retain a reasonable level of
@@ -92,7 +92,7 @@ supper before boarding the Caledonian Sleeper.
 we were waking up as the train rolled into Euston and the whole
 adventure/experience/ordeal almost seemed like a distant dream in the
 chilly morning London air. With a brief interlude for Jacko as he made a
-superhuman effort to play his best friend down the aisle, we all spent the
+superhuman effort to play his friend down the aisle, we all spent the
 weekend doing a sum total of not very much, as we ate, sat and slept our
 way back to some sense of normality. I had allowed myself a few days to
 recover before returning to New York and so was able to catch up with Rich
