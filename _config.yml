@@ -4,7 +4,7 @@ logo:             site-logo.jpg
 disqus_shortname: lejogs
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://lejogs.github.io
+url:              https://lejogs.github.io
 
 # Owner/author information
 owner:
